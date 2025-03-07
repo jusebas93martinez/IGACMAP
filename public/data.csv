@@ -1,0 +1,280 @@
+Codigo,Latitud,Longitud,lati,longi,Nombre,MDANMNombr,DeNombre,RedGeoAc_RedNacional_MRTMaterial
+1,4.66123554,-74.12692226,"04°39'40,44795""N","74°07'36,92015""W",ABCC,Bogotá D.C.,Bogotá D.C.,EAAB
+2,4.47656775,-74.09886814,"04°28'35,64391""N","74°05'55,92532""W",ABPD,Bogotá D.C.,Bogotá D.C.,EAAB
+3,4.68957063,-73.99511464,"04°41'22,45426""N","73°59'42,41270""W",ABPW,La Calera,Cundinamarca,EAAB
+4,10.02910344,-73.04550391,"10°01'44.77242""N","73°02'43.81408""W",ACDZ,Agustín Codazzi,Cesar,IGAC y SGC
+5,2.95582331,-75.29176197,"02°57'20,96390""N","75°17'30,34311""W",AEBS,Neiva,Huila,Servicio Geológico Colombiano
+6,3.72492688,-75.46598129,"03°43'29,73679""N","75°27'57,53264""W",AECH,Chaparral,Tolima,IGAC y SGC
+7,4.76639722,-75.95415477,"04°45'59,02998""N","75°57'14,95718""W",AECT,Cartago,Valle del Cauca,Servicio Geológico Colombiano
+8,4.68843142,-74.13878667,"04°41'18,35313""N","74°08'19,63201""W",AEDO,Bogotá D.C.,Bogotá D.C.,Servicio Geológico Colombiano
+9,1.58893221,-75.56213245,"01°35'20,15595""N","75°33'43,67681""W",AEFO,Florencia,Caquetá,IGAC y SGC
+10,4.80965738,-74.05757654,"04°48'34,76656""N","74°03'27,27557""W",AEGU,Bogotá D.C.,Bogotá D.C.,IGAC y SGC
+11,9.26296704,-74.43577563,"09°15'46,68133""N","74°26'08,79228""W",AEMO,Mompox,Bolívar,Servicio Geológico Colombiano
+12,4.81291108,-75.74212305,"04°48'46,47987""N","75°44'31,64299""W",AEMT,Pereira,Risaralda,Servicio Geológico Colombiano
+13,3.20017907,-75.64110996,"03°12'00.64465""N","75°38'27.99586""W",AEP1,Planadas,Tolima,IGAC y SGC
+14,3.53283568,-76.382448,"03°31'58,20847""N","76°22'56,81280""W",AEPA,Palmira,Valle del Cauca,Servicio Geológico Colombiano
+15,11.11252827,-74.23093532,"11°06'45,10180""N","74°13'51,36713""W",AESI,Santa Marta,Magdalena,Servicio Geológico Colombiano
+16,10.58490346,-74.18935,"10°35'05,65248""N","74°11'21,65998""W",AGAB,Aracataca,Magdalena,IGAC y SGC
+17,8.31504785,-73.59541846,"08°18'54,17227""N","73°35'43,50645""W",AGCA,Aguachica,Cesar,Instituto Geográfico Agustín Codazzi 
+18,5.51988455,-73.37370225,"05°31'11,58437""N","73°22'25,32810""W",AGTU,Tunja,Boyacá,Servicio Geológico Colombiano
+19,5.21041033,-74.8845491,"05°12'37,47718""N","74°53'04,37676""W",AJCM,Mariquita,Tolima,Servicio Geológico Colombiano
+20,7.76052003,-73.38943608,"07°45'37,87209""N","73°23'21,96987""W",ALBE,San Alberto,Cesar,Instituto Geográfico Agustín Codazzi 
+21,11.52798519,-72.91775643,"11°31'40,74670""N","72°55'03,92316""W",ALPA,Riohacha,La Guajira,Servicio Geológico Colombiano
+22,3.53466222,-76.87013926,"03°32'04,78397""N","76°52'12,50134""W",ANCH,Dagua,Valle del Cauca,Servicio Geológico Colombiano
+23,12.58634722,-81.70072929,"12°35'10,85001""N","81°42'02,62553""W",ANDS,San Andrés,"Archipiélago De San Andrés, Providencia Y Santa C*",Instituto Geográfico Agustín Codazzi 
+24,7.87778836,-76.63238975,"07°52'40,03811""N","76°37'56,60308""W",APTO,Apartadó,Antioquia,Instituto Geográfico Agustín Codazzi 
+25,7.0250067,-71.40690628,"07°01'30,02412""N","71°24'24,86259""W",AQTA,Arauquita,Arauca,IGAC y SGC
+26,7.08427728,-70.75853383,"07°05'03,39821""N","70°45'30,72180""W",ARCA,Arauca,Arauca,Instituto Geográfico Agustín Codazzi 
+27,2.28846269,-77.2404233,"02°17'18.46567""N","77°14'25.52389""W",ARGL,Argelia,Cauca,IGAC y SGC
+28,4.27244173,-74.79627381,"04°16'20,79024""N","74°47'46,58570""W",ASVI,Flandes,Tolima,Servicio Geológico Colombiano
+29,0.7424775,-75.23407578,"00°44'32,91897""N","75°14'02,67280""W",BA3E,Solano,Caquetá,Servicio Geológico Colombiano
+30,4.07180292,-73.55401277,"04°04'18,49054""N","73°33'14,44595""W",BAAP,Villavicencio,Meta,Servicio Geológico Colombiano
+31,9.40243829,-75.69192722,"09°24'08,77785""N","75°41'30,93800""W",BACO,Coveñas,Sucre,Servicio Geológico Colombiano
+32,4.23559724,-74.5650852,"04°14'08,15008""N","74°33'54,30671""W",BAME,Melgar,Tolima,Servicio Geológico Colombiano
+33,5.46641655,-74.65750874,"05°27'59,09956""N","74°39'27,03146""W",BAPA,Puerto Salgar,Cundinamarca,Servicio Geológico Colombiano
+34,6.20297066,-77.39323084,"06°12'10,69436""N","77°23'35,63102""W",BASO,Bahía Solano,Chocó,Servicio Geológico Colombiano
+35,9.70209997,-73.27926163,"09°42'07,55988""N","73°16'45,34187""W",BECE,Becerril,Cesar,Instituto Geográfico Agustín Codazzi 
+36,7.0606373,-73.87559104,"07°03'38,29428""N","73°52'32,12775""W",BEJA,Barrancabermeja,Santander,Instituto Geográfico Agustín Codazzi 
+37,6.49268541,-74.41030916,"06°29'33,66746""N","74°24'37,11297""W",BERR,Puerto Berrio,Antioquia,Instituto Geográfico Agustín Codazzi 
+38,7.10488954,-73.12374236,"07°06'17,60236""N","73°07'25,47250""W",BNGA,Bucaramanga,Santander,Instituto Geográfico Agustín Codazzi 
+39,8.31244592,-73.35755312,"08°18'44,80529""N","73°21'27,19122""W",BOBG,Ocaña,Norte de Santander,Servicio Geológico Colombiano
+40,4.63868309,-74.07994956,"04°38'19,25912""N","74°04'47,81842""W",BOGA,Bogotá D.C.,Bogotá D.C.,Instituto Geográfico Agustín Codazzi 
+41,4.64007518,-74.08093965,"04°38'24,27066""N","74°04'51,38276""W",BOGT,Bogotá D.C.,Bogotá D.C.,Servicio Geológico Colombiano
+42,9.96689232,-73.8862272,"09°58'00,81236""N","73°53'10,41794""W",BOSC,Bosconia,Cesar,Instituto Geográfico Agustín Codazzi 
+43,11.01971045,-74.8496399,"11°01'10,95760""N","74°50'58,70365""W",BQLA,Barranquilla,Atlántico,Instituto Geográfico Agustín Codazzi 
+44,3.88202451,-77.01041981,"03°52'55,28826""N","77°00'37,51134""W",BUEN,Buenaventura,Valle del Cauca,Instituto Geográfico Agustín Codazzi 
+45,3.82568656,-76.99579813,"03°49'32,47162""N","76°59'44,87327""W",BUGT,Buenaventura,Valle del Cauca,Servicio Geológico Colombiano
+46,3.37578849,-76.5325642,"03°22'32,83854""N","76°31'57,23114""W",CALI,Cali,Valle del Cauca,Instituto Geográfico Agustín Codazzi 
+47,6.18522693,-67.48204423,"06°11'06.81693""N","67°28'55.35919""W",CAN0,Puerto Carreño,Vichada,Instituto Geográfico Agustín Codazzi 
+48,5.35142413,-72.42775745,"05°21'05,12689""N","72°25'39,92683""W",CAPI,Yopal,Casanare,Servicio Geológico Colombiano
+49,10.39133587,-75.53385183,"10°23'28,80915""N","75°32'1,866580""W",CART,Cartagena,Bolívar,Instituto Geográfico Agustín Codazzi 
+50,7.98884105,-75.2000331,"07°59'19,82778""N","75°12'00,11915""W",CASI,Caucasia,Antioquia,Instituto Geográfico Agustín Codazzi 
+51,1.81997921,-78.72878488,"01°49'11,92513""N","78°43'43,62557""W",CCCP,Tumaco,Nariño,Servicio Geológico Colombiano
+52,3.50528937,-76.35742619,"03°30'19,04174""N","76°21'26,73428""W",CIA1,Palmira,Valle del Cauca,Servicio Geológico Colombiano
+53,10.3908182,-75.53388289,"10°23'26,94550""N","75°32'01,97840""W",CIOH,Cartagena,Bolívar,Servicio Geológico Colombiano
+54,1.65198506,-77.57954187,"01°39'07.14620""N","77°34'46.35075""W",CMBI,Cumbitara,Nariño,IGAC y SGC
+55,9.20194693,-73.53159631,"09°12'07.00893""N","73°31'53.74672""W",CMNI,Curumaní,Cesar,IGAC y SGC
+56,13.37549589,-81.36291985,"13°22'31,78520""N","81°21'46,51152""W",CN35,Providencia,"Archipiélago De San Andrés, Providencia Y Santa C*",Servicio Geológico Colombiano
+57,10.79257813,-75.26317448,"10°47'33,28124""N","75°15'47,42815""W",CN37,Santa Catalina,Bolívar,Servicio Geológico Colombiano
+58,3.53078885,-74.71843909,"03°31'50.83987""N","74°43'06.38073""W",COLH,Colombia,Huila,IGAC y SGC
+59,1.18316945,-76.97624063,"01°10'59,41002""N","76°58'34,46627""W",COLN,Colón,Putumayo,IGAC y SGC
+60,9.32808875,-75.28785372,"09°19'41,11949""N","75°17'16,27340""W",CORO,Corozal,Sucre,Servicio Geológico Colombiano
+61,4.47227469,-75.55468335,"04°28'20,18886""N","75°33'16,86007""W",CPAS,Calarcá,Quindío,Servicio Geológico Colombiano
+62,7.93227613,-72.51281326,"07°55'56,19409""N","72°30'46,12774""W",CUC1,Cúcuta,Norte de Santander,Servicio Geológico Colombiano
+63,7.89845992,-72.48793925,"07°53'54,45572""N","72°29'16,58131""W",CUCU,Cúcuta,Norte de Santander,Instituto Geográfico Agustín Codazzi 
+64,3.73907169,-76.67973088,"03°44'20,65807""N","76°40'47,03117""W",DAGA,Dagua,Valle del Cauca,Servicio Geológico Colombiano
+65,11.0401376,-74.82362321,"11°02'24,49538""N","74°49'25,04357""W",DICA,Barranquilla,Atlántico,Servicio Geológico Colombiano
+66,5.45384634,-74.6633129,"05°27'13,84682""N","74°39'47,92646""W",DORA,La Dorada,Caldas,Instituto Geográfico Agustín Codazzi 
+67,7.59181565,-74.79149026,"07°35'30,53631""N","74°47'29,36494""W",EBPT,El Bagre,Antioquia,IGAC y SGC
+68,1.9893141,-77.10109065,"01°59'21,53077""N","77°06'03,92635""W",EBRD,Patía,Cauca,Servicio Geológico Colombiano
+69,11.25280597,-72.87610647,"11°15'10,10152""N","72°52'33,98329""W",FIDE,Riohacha,La Guajira,Servicio Geológico Colombiano
+70,5.46734495,-73.73480849,"05°28'02,44185""N","73°44'05,31059""W",FQNE,Fúquene,Cundinamarca,Instituto Geográfico Agustín Codazzi 
+71,5.08133453,-73.36003755,"05°04'52,80431""N","73°21'36,13517""W",GARA,Garagoa,Boyacá,Instituto Geográfico Agustín Codazzi 
+72,9.2399375,-74.75986875,"09°14'23,77500""N","74°45'35,52748""W",GGUE,Magangué,Bolívar,Instituto Geográfico Agustín Codazzi 
+73,2.57448009,-77.89467962,"02°34'28,12833""N","77°53'40,84663""W",GUAP,Guapi,Cauca,Servicio Geológico Colombiano
+74,7.06953339,-75.68854416,"07°04'10,32021""N","75°41'18,75896""W",HITU,Ituango,Antioquia,Servicio Geológico Colombiano
+75,4.4280464,-75.21472343,"04°25'40,96704""N","75°12'53,00433""W",IBAG,Ibagué,Tolima,Instituto Geográfico Agustín Codazzi 
+76,3.86621112,-67.92584315,"03°51'58,36005""N","67°55'33,03532""W",INIR,Inírida,Guainía,Instituto Geográfico Agustín Codazzi 
+77,4.59474776,-75.96788738,"04°35'41,09194""N","75°58'04,39455""W",INOB,Obando,Valle del Cauca,Servicio Geológico Colombiano
+78,4.90858785,-75.89718293,"04°54'30,91628""N","75°53'49,85855""W",INRI,Balboa,Risaralda,Servicio Geológico Colombiano
+79,5.03160343,-75.85437784,"05°01'53,77232""N","75°51'15,76024""W",INSJ,San José,Caldas,Servicio Geológico Colombiano
+80,4.64221998,-76.04278013,"04°38'31,99194""N","76°02'34,00848""W",INTO,Toro,Valle del Cauca,Servicio Geológico Colombiano
+81,11.18812492,-74.23178005,"11°11'17,24972""N","74°13'54,40820""W",INVE,Santa Marta,Magdalena,Servicio Geológico Colombiano
+82,1.85523498,-76.09156994,"01°51'18,84594""N","76°05'29,65180""W",LAB1,Pitalito,Huila,Servicio Geológico Colombiano
+83,1.56646615,-76.95105831,"01°33'59,27815""N","76°57'03,80990""W",LEDE,La Cruz,Nariño,Servicio Geológico Colombiano
+84,-4.21417858,-69.94297041,"04°12'51,04289""S","69°56'34,69346""W",LETA,Leticia,Amazonas,Instituto Geográfico Agustín Codazzi 
+85,6.78787418,-71.02527443,"06°47'16,34708""N","71°01'30,98792""W",LIPA,Arauquita,Arauca,IGAC y SGC
+86,6.33668033,-72.66201713,"06°20'12,04919""N","72°39'43,26166""W",MAKA,Soata,Boyacá,Servicio Geológico Colombiano
+87,6.19940607,-75.5789162,"06°11'57,86186""N","75°34'44,09833""W",MEDE,Medellín,Antioquia,Instituto Geográfico Agustín Codazzi 
+88,1.76305849,-78.18086926,"01°45'47.01058""N","78°10'51.12937""W",MGUI,Magüí Payán,Nariño,IGAC y SGC
+89,1.26078201,-70.23212682,"01°15'38,81525""N","70°13'55,65658""W",MITU,Mitú,Vaupés,Servicio Geológico Colombiano
+90,8.54224997,-74.62639703,"08°32'32.09991""N","74°37'35.02929""W",MJGL,Majagual,Sucre,IGAC y SGC
+91,8.95890611,-73.68301268,"08°57'32,06202""N","73°40'58,84565""W",MORA,Pailitas,Cesar,Servicio Geológico Colombiano
+92,8.79196628,-75.86066757,"08°47'31,07858""N","75°51'38,40324""W",MOTE,Montería,Córdoba,Instituto Geográfico Agustín Codazzi 
+93,5.02999627,-75.47052481,"05°01'47,98655""N","75°28'13,88932""W",MZAL,Manizales,Caldas,Servicio Geológico Colombiano
+94,2.93730207,-75.29303158,"02°56'14,28746""N","75°17'34,91365""W",NEVA,Neiva,Huila,Instituto Geográfico Agustín Codazzi 
+95,8.53686471,-74.03497832,"08°32'12.71295""N","74°02'05.92197""W",NRSI,Norosí,Bolívar,IGAC y SGC
+96,5.64720891,-73.55802944,"05°38'49,95207""N","73°33'28,90596""W",OAMU,Villa de Leyva,Boyacá,Servicio Geológico Colombiano
+97,4.27118285,-71.61581269,"04°16'16,25825""N","71°36'56,92568""W",OCEL,Puerto Gaitán,Meta,Servicio Geológico Colombiano
+98,0.66492334,-76.8765882,"00°39'53,72401""N","76°52'35,71754""W",ORIT,Orito,Putumayo,IGAC y SGC
+99,9.52896904,-75.22781156,"09°31'44,28851""N","75°13'40,12161""W",OVEJ,Ovejas,Sucre,Instituto Geográfico Agustín Codazzi 
+100,1.21019185,-77.25663386,"01°12'36,69064""N","77°15'23,8819""W",OVSC,Pasto,Nariño,Servicio Geológico Colombiano
+101,7.13102771,-73.18417412,"07°07'51,69976""N","73°11'3,02682""W",PAL2,Lebrija,Santander,Servicio Geológico Colombiano
+102,7.38418419,-72.64777998,"07°23'03,06309""N","72°38'52,00795""W",PAMP,Pamplona,Norte de Santander,Instituto Geográfico Agustín Codazzi 
+103,0.51277937,-76.49940024,"00°30'46,00571""N","76°29'57,84087""W",PASI,Puerto Asís,Putumayo,Servicio Geológico Colombiano
+104,5.74649545,-73.12566732,"05°44'47,38362""N","73°07'32,40234""W",PATU,Paipa,Boyacá,Servicio Geológico Colombiano
+105,4.79249752,-75.68950922,"04°47'32,99108""N","75°41'22,23319""W",PERA,Pereira,Risaralda,Instituto Geográfico Agustín Codazzi 
+106,4.32057379,-72.09258026,"04°19'14,04199""N","72°05'33,30602""W",PGTN,Puerto Gaitán,Meta,IGAC y SGC
+107,0.96781041,-76.40447128,"00°58'04,11747""N","76°24'16,09663""W",PGUZ,Puerto Guzman,Putumayo,IGAC y SGC
+108,8.914458,-74.45868359,"08°54'52.04881""N","74°27'31.26092""W",PINI,Pinillos,Bolívar,IGAC y SGC
+109,5.04382722,-75.33210015,"05°02'37,77799""N","75°19'55,56055""W",PLTR,Manizales,Caldas,Servicio Geológico Colombiano
+110,2.44311547,-76.60120559,"02°26'35,21571""N","76°36'04,34012""W",POPA,Popayán,Cauca,Instituto Geográfico Agustín Codazzi 
+111,2.44909023,-76.61474402,"02°26'56,72484""N","76°36'53,07849""W",POVA,Popayán,Cauca,Servicio Geológico Colombiano
+112,5.4819693,-70.41772485,"05°28'55.08949""N","70°25'03.80947""W",PRVA,La Primavera,Vichada,IGAC y SGC
+113,1.21171274,-77.27708035,"01°12'42,16585""N","77°16'37,48928""W",PSTO,Pasto,Nariño,Instituto Geográfico Agustín Codazzi 
+114,1.97275143,-77.1196452,"01°58'21.90512""N","77°07'10.72271""W",PTIA,Patia,Cauca,IGAC y SGC
+115,10.42236795,-73.57452662,"10°25'20,52463""N","73°34'28,29583""W",PUBE,Pueblo Bello,Cesar,Servicio Geológico Colombiano
+116,3.85120035,-67.90334084,"03°51'04,32125""N","67°54'12,02702""W",PUIN,Inírida,Guainía,Servicio Geológico Colombiano
+117,7.8141408,-73.75264986,"07°48'50,90690""N","73°45'09,53952""W",PWIL,Puerto Wilches,Santander,Servicio Geológico Colombiano
+118,5.69963838,-76.65672988,"05°41'58,69816""N","76°39'24,22761""W",QUIB,Quibdó,Choco,Instituto Geográfico Agustín Codazzi 
+119,1.39392616,-77.29094851,"01°23'38,13420""N","77°17'27,41461""W",QUIL,Chachagüí,Nariño,Servicio Geológico Colombiano
+120,11.51321701,-72.86970148,"11°30'47,58123""N","72°52'10,92531""W",RIOH,Riohacha,La Guajira,Instituto Geográfico Agustín Codazzi 
+121,5.04564624,-70.72263278,"05°02'44,32648""N","70°43'21,47797""W",RSLA,Santa Rosalía,Vichada,IGAC y SGC
+122,3.7934014,-71.42376431,"03°47'36,24506""N","71°25'25,55152""W",RUBI,Puerto Gaitán,Meta,Instituto Geográfico Agustín Codazzi 
+123,11.22524887,-74.18709213,"11°13'30,89594""N","74°11'13,53167""W",SAMA,Santa Marta,Magdalena,Instituto Geográfico Agustín Codazzi 
+124,12.58045095,-81.71572101,"12°34'49,62343""N","81°42'56,59568""W",SAN0,San Andrés,"Archipiélago De San Andrés, Providencia Y Santa C*",Servicio Geológico Colombiano
+125,1.70562268,-76.57303794,"01°42'20.24164""N","76°34'22.93659""W",SARO,Santa Rosa,Cauca,IGAC y SGC
+126,8.08345548,-72.80228585,"08°05'00,43972""N","72°48'08,22904""W",SDTA,Sardinata,Norte de Santander,Instituto Geográfico Agustín Codazzi 
+127,6.19087065,-75.52912497,"06°11'27,13434""N","75°31'44,84988""W",SEL1,Medellín,Antioquia,Servicio Geológico Colombiano
+128,3.37223274,-76.52990906,"03°22'20,03789""N","76°31'47,67264""W",SGCC,Cali,Valle del Cauca,Servicio Geológico Colombiano
+129,6.99210253,-73.06432257,"06°59'31,56912""N","73°03'51,56125""W",SGCG,Piedecuesta,Santander,Servicio Geológico Colombiano
+130,2.60757187,-76.37314543,"02°36'27,25873""N","76°22'23,32356""W",SILP,Silvia,Cauca,IGAC y SGC
+131,9.31559225,-75.38768309,"09°18'56,13211""N","75°23'15,65912""W",SINC,Sincelejo,Sucre,Instituto Geográfico Agustín Codazzi 
+132,9.95673462,-75.07499614,"09°57'24,24465""N","75°04'29,98611""W",SJNE,San Juan Nepomuceno,Bolívar,IGAC y SGC
+133,3.79510185,-73.83395664,"03°47'42.36668""N","73°50'02.24388""W",SLCB,San Luis de Cubarral,Meta,IGAC y SGC
+134,5.71507144,-75.30833381,"05°42'54,25718""N","75°18'30,00171""W",SNSN,Sonsón,Antioquia,Instituto Geográfico Agustín Codazzi 
+135,5.99669263,-72.6985245,"05°59'48,09349""N","72°41'54,68821""W",SOCB,Socha,Boyacá,IGAC y SGC
+136,9.72813066,-75.52493963,"09°43'41,27039""N","75°31'29,78268""W",SONE,San Onofre,Sucre,IGAC y SGC
+137,7.96136369,-74.03841529,"07°57'40.90927""N","74°02'18.29505""W",SRSR,Santa Rosa del Sur,Bolívar,IGAC y SGC
+138,5.70987462,-72.92469695,"05°42'35,54865""N","72°55'28,90904""W",SUAM,Sogamoso,Boyacá,Servicio Geológico Colombiano
+139,10.34037741,-74.87994206,"10°20'25,35869""N","74°52'47,79143""W",SUAN,Suan,Atlántico,IGAC y SGC
+140,2.94471719,-76.70685541,"02°56'40,98189""N","76°42'24,67946""W",SUES,Suarez,Cauca,IGAC y SGC
+141,6.95392575,-71.85952471,"06°57'14,13270""N","71°51'34,28895""W",SVNA,Saravena,Arauca,Servicio Geológico Colombiano
+142,7.57178597,-75.40724846,"07°34'18,42949""N","75°24'26,09445""W",TARZ,Taraza,Antioquia,IGAC y SGC
+143,3.38038186,-75.14714689,"03°22'49,37470""N","75°08'49,72878""W",TCOA,Villavieja,Tolima,Servicio Geológico Colombiano
+144,5.4217837,-73.53931227,"05°25'18,42135""N","73°32'21,52419""W",TEAT,Samacá,Boyacá,Servicio Geológico Colombiano
+145,8.63143066,-72.73610115,"08°37'53,15037""N","72°44'09,96412""W",TIBU,Tibu,Norte de Santander,IGAC y SGC
+146,-4.18708362,-69.93938591,"04°11'13,50101""S","69°56'21,78927""W",TICU,Leticia,Amazonas,Servicio Geológico Colombiano
+147,6.01457543,-75.79218048,"06°00'52,47154""N","75°47'31,84971""W",TITI,Titiribí,Antioquia,Servicio Geológico Colombiano
+148,6.32442731,-76.1393088,"06°19'27,93831""N","76°08'21,51169""W",TONE,Urrao,Antioquia,Servicio Geológico Colombiano
+149,5.33558809,-74.30275177,"05°20'08.11711""N","74°18'09.90636""W",TPPI,Topaipí,Cundinamarca,IGAC y SGC
+150,5.43344803,-71.65322598,"05°26'00.41290""N","71°39'11.61353""W",TRDA,Trinidad,Casanare,IGAC y SGC
+151,1.81485366,-78.74770212,"01°48'53,47316""N","78°44'51,72763""W",TUCO,Tumaco,Nariño,Servicio Geológico Colombiano
+152,1.8222753,-78.73041244,"01°49'20,19107""N","78°43'49,48478""W",TUMA,Tumaco,Nariño,Instituto Geográfico Agustín Codazzi 
+153,1.55088228,-78.69786823,"01°33'03.17619""N","78°41'52.32565""W",TUMC,Tumaco,Nariño,IGAC y SGC
+154,5.53133042,-73.36388193,"05°31'52,78950""N","73°21'49,97496""W",TUNA,Tunja,Boyacá,Instituto Geográfico Agustín Codazzi 
+155,1.0939568,-77.63096669,"01°05'38,24447""N","77°37'51,48006""W",TUQU,Tuquerres,Nariño,IGAC y SGC
+156,4.61455694,-74.09390526,"04°36'52,40500""N","74°05'38,05892""W",UDAP,Bogotá D.C.,Bogotá D.C.,Servicio Geológico Colombiano
+157,4.48496627,-75.74467336,"04°29'05,87859""N","75°44'40,82411""W",UGCT,Armenia,Quindio,Servicio Geológico Colombiano
+158,5.07229143,-75.67325149,"05°04'20,24916""N","75°40'23,70535""W",UNCA,Palestina,Caldas,Servicio Geológico Colombiano
+159,6.26398477,-75.57711126,"06°15'50,34517""N","75°34'37,60054""W",UNME,Medellín,Antioquia,Servicio Geológico Colombiano
+160,8.01230288,-76.21020275,"08°00'44,29037""N","76°12'36,72991""W",URR0,Tierraalta,Córdoba,Servicio Geológico Colombiano
+161,6.45071505,-72.39133445,"06°27'02,57419""N","72°23'28,80403""W",UWAS,Güicán,Boyacá,Servicio Geológico Colombiano
+162,10.47396779,-73.25196901,"10°28'26,28402""N","73°15'07,08842""W",VALL,Valledupar,Cesar,Instituto Geográfico Agustín Codazzi 
+163,7.06672191,-70.73329955,"07°04'00,19889""N","70°43'59,87837""W",VAUC,Arauca,Arauca,Servicio Geológico Colombiano
+164,9.04586978,-73.96927875,"09°02'45,13120""N","73°58'09,40351""W",VBAM,El Banco,Magdalena,Servicio Geológico Colombiano
+165,7.02801978,-73.8058631,"07°01'40,87120""N","73°48'21,10716""W",VBAR,Barrancabermeja,Santander,Servicio Geológico Colombiano
+166,5.53320833,-73.85893524,"05°31'59,55002""N","73°51'32,16686""W",VBUV,Caldas,Boyacá,Servicio Geológico Colombiano
+167,6.18253258,-67.49484621,"06°10'57,11729""N","67°29'41,44635""W",VCAR,Puerto Carreño,Vichada,Servicio Geológico Colombiano
+168,5.98062663,-75.4185653,"05°58'50,25589""N","75°25'06,83511""W",VCRG,La Unión,Antioquia,Servicio Geológico Colombiano
+169,10.20864925,-75.50546836,"10°12'31,13730""N","75°30'19,68610""W",VCTG,Cartagena,Bolívar,Servicio Geológico Colombiano
+170,10.43580677,-73.24782608,"10°26'08,90437""N","73°14'52,17389""W",VDPR,Valledupar,Cesar,Servicio Geológico Colombiano
+171,4.46030167,-75.76543725,"04°27'37,08599""N","75°45'55,57412""W",VEDE,La Tebaida,Quindio,Servicio Geológico Colombiano
+172,4.07466273,-73.58399403,"04°04'28,78583""N","73°35'02,37850""W",VIVI,Villavicencio,Meta,Instituto Geográfico Agustín Codazzi 
+173,9.28674272,-74.84731898,"09°17'12,27380""N","74°50'50,34834""W",VMAG,Magangué,Bolívar,Servicio Geológico Colombiano
+174,6.1760596,-75.32423486,"06°10'33,81457""N","75°19'27,24549""W",VMAR,Marinilla,Antioquia,Servicio Geológico Colombiano
+175,1.78501411,-77.1532955,"01°47'06,05081""N","77°09'11,86380""W",VMER,Mercaderes,Cauca,Servicio Geológico Colombiano
+176,6.88333419,-73.09168234,"06°53'0,00308""N","73°05'30,05642""W",VMES,Los Santos,Santander,Servicio Geológico Colombiano
+177,3.06224738,-75.25530536,"03°03'44,09056""N","75°15'19,09930""W",VNEI,Neiva,Huila,Servicio Geológico Colombiano
+178,7.8184415,-76.72180635,"07°49'06,38938""N","76°43'18,50287""W",VORA,Carepa,Antioquia,Servicio Geológico Colombiano
+179,0.86303965,-77.67248937,"00°51'46,94275""N","77°40'20,96173""W",VORI,Ipiales,Nariño,Servicio Geológico Colombiano
+180,4.39668869,-75.10669166,"04°23'48,07930""N","75°06'24,08998""W",VPIJ,Ibagué,Tolima,Servicio Geológico Colombiano
+181,10.79377315,-74.86084458,"10°47'37,58335""N","74°51'39,04049""W",VPOL,Polonuevo,Atlántico,Servicio Geológico Colombiano
+182,4.06772765,-73.3822421,"04°04'03,81953""N","73°22'56,07154""W",VPOM,Villavicencio,Meta,Servicio Geológico Colombiano
+183,5.69231609,-76.64170417,"05°41'32,33791""N","76°38'30,13503""W",VQUI,Quibdó,Chocó,Servicio Geológico Colombiano
+184,4.84704821,-74.32332868,"04°50'49,37357""N","74°19'23,98325""W",VROS,El Rosal,Cundinamarca,Servicio Geológico Colombiano
+185,2.5325127,-72.63897082,"02°31'57,04571""N","72°38'20,29493""W",VSJG,San José del Guaviare,Guaviare,Servicio Geológico Colombiano
+186,4.78117881,-75.83556008,"04°46'52,24371""N","75°50'08,01629""W",VSJP,Pereira,Risaralda,Servicio Geológico Colombiano
+187,4.6025774,-74.27287945,"04°36'09,27864""N","74°16'22,36601""W",VSOA,Soacha,Cundinamarca,Servicio Geológico Colombiano
+188,6.45240179,-71.75347504,"06°27'08,64646""N","71°45'12,51015""W",VTAM,Tame,Arauca,Servicio Geológico Colombiano
+189,4.091623,-76.22362414,"04°05'29,84282""N","76°13'25,04690""W",VTUL,Tuluá,Valle del Cauca,Servicio Geológico Colombiano
+190,5.27539234,-72.42707331,"05°16'31,41242""N","72°25'37,46392""W",VYPL,Yopal,Casanare,Servicio Geológico Colombiano
+191,5.01902249,-73.98697315,"05°01'08,48097""N","73°59'13,10335""W",VZPQ,Zipaquirá,Cundinamarca,Servicio Geológico Colombiano
+192,5.32176259,-72.38899484,"05°19'18,34533""N","72°23'20,38146""W",YOPA,Yopal,Casanare,Instituto Geográfico Agustín Codazzi 
+193,4.39657646,-76.06756712,"04°23'47,67528""N","76°04'03,24164""W",ZARZ,Zarzal,Valle del Cauca,Instituto Geográfico Agustín Codazzi 
+194,9.73532257,-74.83506859,"09°44'07.16125""N","74°50'06.24690""W",ZBNO,Zambrano,Bolivar,IGAC y SGC
+195,4.63796581,-73.72233083,"04°38'16,67690""N","73°43'20,39099""W",ABCH,Fómeque,Cundinamarca,EAAB
+196,4.5911924,-74.1901749,"04°35'28.29264""N","74°11'24.62965""W",SBOG,Soacha,Cundinamarca,SENA
+197,2.22056827,-75.58532256,"02°13'14.04578""N","75°35'07.16122""W",GRZN,Garzón,Huila,IGAC y SGC
+198,4.49450611,-70.66777576,"04°29'40.22197""N","70°40'03.99273""W",3MAT,Cumaribo,Vichada,IGAC y SGC
+199,3.37805343,-74.04837251,"03°22'40.99235""N","74°02'54.14103""W",MSET,Mesetas,Meta,IGAC y SGC
+200,2.41090355,-75.8815719,"02°24'39.25278""N","75°52'53.65883""W",PLTA,La Plata,Huila,IGAC y SGC
+201,6.70326367,-72.73788508,"06°42'11.74920""N","72°44'16.38628""W",MLGS,Málaga,Santander,IGAC y SGC
+202,1.34405327,-75.98359606,"01°20'38.59178""N","75°59'00.94582""W",SJFR,San José del Fragua,Caquetá,IGAC y SGC
+203,3.26916281,-73.37478772,"03°16'08.98611""N","73°22'29.23581""W",PULL,Puerto Lleras,Meta,Instituto Geográfico Agustín Codazzi 
+204,2.57272027,-72.64267702,"02°34'21.79298""N","72°38'33.63724""W",SJGU,San José del Guaviare,Guaviare,Instituto Geográfico Agustín Codazzi 
+205,8.85148671,-75.27734397,"08°51'05.35216""N","75°16'38.43829""W",UNIO,La Unión,Sucre,IGAC y SGC
+206,10.30547,-74.04311,"10°18'19.68636""N","74°02'35.21328""W",AGBO,Algarrobo,Magdalena,IGAC y SGC
+207,1.29035,-75.50731,"01°17'25.25558""N","75°30'26.31564""W",MILN,Milan,Caqueta,IGAC y SGC
+208,4.51000268,-73.35054668,"04°30'36.00965""N","73°21'01.96805""W",MEDN,Medina,Cundinamarca,IGAC y SGC
+209,0.88299224,-75.61817502,"00°52'58.77207""N","75°37'05.43006""W",SLTA,Solita,Caquetá,IGAC y SGC
+210,9.73656538,-73.70951045,"09°44'11.63538""N","73°42'34.23764""W",P4VI,El Paso,Cesar,IGAC y SGC
+211,9.50778407,-73.97256202,"09°30'28.02265""N","73°58'21.22329""W",ASTR,Astrea,Cesar,IGAC y SGC
+212,3.131157,-73.7572586,"03°07'52.16519""N","73°45'26.13095""W",VHER,"Vista Hermosa
+",Meta,IGAC y SGC
+213,2.94896723,-73.19215759,"02°56'56.28206""N
+","73°11'31.76730""W
+",PRIC,Puerto Rico,Meta,IGAC y SGC
+214,1.95993312,-72.6464531,"01°57'35,75925""N","72°38'47,23117""W",CLMA,Calamar,Guaviare,IGAC y SGC
+215,2.89474486,-72.12385086,"02°53'41.08150""N","72°07'25.86310""W
+",MPAN,Mapiripán,Meta,IGAC y SGC
+216,3.23903737,-74.34787312,"03°14'20.53455""N
+","74°20'52.34323""W
+",UIBE,"La Uribe
+",Meta,IGAC y SGC
+217,1.90301709,-75.17077367,"01°54'10.86153""N
+","75°10'14.78520""W
+","PTRI
+","Puerto Rico
+","Caquetá
+",IGAC y SGC
+218,2.17411928,-74.78827999,"02°10'26.82943""N
+","74°47'17.80799""W
+","SVDC
+","San Vicente del Caguán
+","Caquetá
+",IGAC y SGC
+219,8.2611361,-76.15792304,"08°15'40.08993""N
+","76°09'28.52292""W
+",VLEN,Valencia,Córdoba,IGAC y SGC
+220,7.88868881,-75.67743716,"07°53'19.27974""N
+","75°40'38.77379""W
+","PLCO
+","Puerto Libertador
+","Córdoba
+",IGAC y SGC
+221,2.6121166,-75.3644398,"02°36'43.72115""N
+","72°21'51.89975""W
+",CALE,Campo Alegre,Huila,IGAC y SGC
+222,1.342133,-74.844972,01°20?31.67983?N,"74°50?41,89757?W",CCHA,Cartagena Del Chairá,Caquetá,IGAC y SGC
+223,1.020978,-71.307923,"01°01?15,56900?N ","71°18?28,536 W",CRRU,Carurú,Vaupés,IGAC y SGC
+224,-0.0572219,-74.658,"0°03?26,000?S","74°39?31,000?W",LEGU,Leguízamo,Putumayo,IGAC y SGC
+225,2.168913,-73.789092,"02°10?08,04702?N","73°47?20,60208?W",LMAC,La Macarena,Meta,IGAC y SGC
+226,1.344722,-71.948333,"01°20?41,000?N ","71°56?54,000?W",MFLO,Miraflores,"Guaviare
+Guaviare",IGAC y SGC
+227,8.083635,-74.776006,"08°05?02,43?N ","74°46?33,83?W",NECI,Nechi,Antioquia,IGAC y SGC
+228,0.141944,-75.862222,"0°08?30,94975?N","75°51?44,20484?W",POSP,Leguízamo,Putumayo,IGAC y SGC
+229,3.536503,-73.696931,"03°32'11,411""N","73°41'48,952""W",GNDA,Granada,Meta,IGAC y SGC
+230,4.45165,-69.806443,"04°27'5,94""N","69°48'23,195""W",CUMA,Cumaribo,Vichada,IGAC y SGC
+231,4.826194,-72.287376,"04°49'34,298""N","72°17'14,554""W",MANI,Maní,Casanare,IGAC y SGC
+232,5.957135,-73.646586,"05°57'25,686""N","73°38'47,71""W",VELZ,Vélez,Santander,IGAC y SGC
+233,10.883001,-72.888372,"10° 52' 58.804"" N","72° 53' 18.139"" W",DIST,Distracción,La Guajira,IGAC y SGC
+234,6.283155,-71.100804,"6° 16' 59.358"" N","71° 6' 2.894"" W",PURO,Arauca,Puerto Rondón,IGAC y SGC
+235,8.29497,-75.164366,"8° 17' 41.892"" N","75° 9' 51.718"" W",AYAP,Ayapel,Córdoba,IGAC y SGC
+236,4.640147,-74.080255,"04°38'24,52920""N","74°04'48,91800""W",IGAC,Bogotá,Bogotá,Instituto Geográfico Agustín Codazzi 
+237,5.879337,-71.886503,"05°52'45,61320""N","71°53'11,41080""W",ARIP,Paz de Ariporo,Casanare,Instituto Geográfico Agustín Codazzi 
+238,6.287477,-73.156451,"06°17'14,91720""N","73°09'23,22360""W",CHRL,Charalá,Santander,Instituto Geográfico Agustín Codazzi 
+239,5.250273,-76.648395,"05°15'0,98280""N","76°38'54,22200""W",ISTM,Unión Panamericana,Chocó,Instituto Geográfico Agustín Codazzi 
+240,5.68549481,-76.63016949,"05°41'7,78132""N","76°37'48,61017""W",QBDO,Quibdó,Chocó,Instituto Geográfico Agustín Codazzi 
+241,5.995764,-76.784041,"05°59'44,75040""N","76°47'2,54760""W",BETE,Medio Atrato,Chocó,Instituto Geográfico Agustín Codazzi 
+242,4.258214,-77.364536,"04°59'44,75040""N","76°47'2,54760""W",LSJU,Litoral de San Juan,Chocó,Instituto Geográfico Agustín Codazzi 
+243,11.384555,-72.272566,"11°23'4,398""N","72°16'21,238""W",MAIC,Maicao,La Guajira,Instituto Geográfico Agustín Codazzi 
+244,10.114369,-74.516156,"10°06'51,728""N","74°30'58,162""W",CHVL,Chivolo,Magdalena,Instituto Geográfico Agustín Codazzi 
+245,8.355244,-75.539447,"08°21'18,878""N","75°32'22,009""W",PLRI,Planeta Rica,Córdoba,Instituto Geográfico Agustín Codazzi 
+246,10.465125,-74.622686,"10°27'54,450""N","74°37'21,670""W",PIVI,Pivijay,Magdalena,Instituto Geográfico Agustín Codazzi 
+247,-2.142899,-71.747576,"02°08'34,436""S","71°44'51,274""W",ARIC,Puerto Arica,Amazonas,Instituto Geográfico Agustín Codazzi 
+248,6.177202,-74.564575,"06°10'37,927""N","74°33'52,470""W",PBYA,Puerto Boyacá,Boyacá,Instituto Geográfico Agustín Codazzi 
+249,8.9352025,-75.03636778,"08°56'06,731""N","75°02'10,925""W",ABAD,San Benito de Abad,Sucre,Instituto Geográfico Agustín Codazzi 
+250,7.39572722,-73.48857139,"07°23'44,617""N","73°29'18,856""W",STDO,Sabana de Torres,Santander,Instituto Geográfico Agustín Codazzi 
+251,3.86076667,-74.94704167,"03°51'38,761""N","74°56'49,351""W",PUFI,Purificación,Tolima,Instituto Geográfico Agustín Codazzi 
+252,4.284528,-72.792722,"04°17'04,301""N","72°47'33,799""W",CBYA,Cabuyaro,Meta,Instituto Geográfico Agustín Codazzi 

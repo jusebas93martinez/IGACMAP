@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Mantén solo estilos personalizados */
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  transition: filter 300ms;
+}
+
+.card {
+  padding: 2em;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.read-the-docs {
+  color: #860fe8;
+  margin-top: 2rem;
+}
