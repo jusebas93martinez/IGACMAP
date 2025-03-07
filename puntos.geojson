@@ -1,0 +1,4793 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.12692226,
+                    4.66123554
+                ]
+            },
+            "properties": {
+                "Codigo": "1",
+                "lati": "04\u00b039'40,44795\"N",
+                "longi": "74\u00b007'36,92015\"W",
+                "Nombre": "ABCC",
+                "MDANMNombr": "Bogot\u00e1 D.C.",
+                "DeNombre": "Bogot\u00e1 D.C.",
+                "RedGeoAc_RedNacional_MRTMaterial": "EAAB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09886814,
+                    4.47656775
+                ]
+            },
+            "properties": {
+                "Codigo": "2",
+                "lati": "04\u00b028'35,64391\"N",
+                "longi": "74\u00b005'55,92532\"W",
+                "Nombre": "ABPD",
+                "MDANMNombr": "Bogot\u00e1 D.C.",
+                "DeNombre": "Bogot\u00e1 D.C.",
+                "RedGeoAc_RedNacional_MRTMaterial": "EAAB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99511464,
+                    4.68957063
+                ]
+            },
+            "properties": {
+                "Codigo": "3",
+                "lati": "04\u00b041'22,45426\"N",
+                "longi": "73\u00b059'42,41270\"W",
+                "Nombre": "ABPW",
+                "MDANMNombr": "La Calera",
+                "DeNombre": "Cundinamarca",
+                "RedGeoAc_RedNacional_MRTMaterial": "EAAB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.04550391,
+                    10.02910344
+                ]
+            },
+            "properties": {
+                "Codigo": "4",
+                "lati": "10\u00b001'44.77242\"N",
+                "longi": "73\u00b002'43.81408\"W",
+                "Nombre": "ACDZ",
+                "MDANMNombr": "Agust\u00edn Codazzi",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.29176197,
+                    2.95582331
+                ]
+            },
+            "properties": {
+                "Codigo": "5",
+                "lati": "02\u00b057'20,96390\"N",
+                "longi": "75\u00b017'30,34311\"W",
+                "Nombre": "AEBS",
+                "MDANMNombr": "Neiva",
+                "DeNombre": "Huila",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46598129,
+                    3.72492688
+                ]
+            },
+            "properties": {
+                "Codigo": "6",
+                "lati": "03\u00b043'29,73679\"N",
+                "longi": "75\u00b027'57,53264\"W",
+                "Nombre": "AECH",
+                "MDANMNombr": "Chaparral",
+                "DeNombre": "Tolima",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.95415477,
+                    4.76639722
+                ]
+            },
+            "properties": {
+                "Codigo": "7",
+                "lati": "04\u00b045'59,02998\"N",
+                "longi": "75\u00b057'14,95718\"W",
+                "Nombre": "AECT",
+                "MDANMNombr": "Cartago",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.13878667,
+                    4.68843142
+                ]
+            },
+            "properties": {
+                "Codigo": "8",
+                "lati": "04\u00b041'18,35313\"N",
+                "longi": "74\u00b008'19,63201\"W",
+                "Nombre": "AEDO",
+                "MDANMNombr": "Bogot\u00e1 D.C.",
+                "DeNombre": "Bogot\u00e1 D.C.",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.56213245,
+                    1.58893221
+                ]
+            },
+            "properties": {
+                "Codigo": "9",
+                "lati": "01\u00b035'20,15595\"N",
+                "longi": "75\u00b033'43,67681\"W",
+                "Nombre": "AEFO",
+                "MDANMNombr": "Florencia",
+                "DeNombre": "Caquet\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05757654,
+                    4.80965738
+                ]
+            },
+            "properties": {
+                "Codigo": "10",
+                "lati": "04\u00b048'34,76656\"N",
+                "longi": "74\u00b003'27,27557\"W",
+                "Nombre": "AEGU",
+                "MDANMNombr": "Bogot\u00e1 D.C.",
+                "DeNombre": "Bogot\u00e1 D.C.",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.43577563,
+                    9.26296704
+                ]
+            },
+            "properties": {
+                "Codigo": "11",
+                "lati": "09\u00b015'46,68133\"N",
+                "longi": "74\u00b026'08,79228\"W",
+                "Nombre": "AEMO",
+                "MDANMNombr": "Mompox",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74212305,
+                    4.81291108
+                ]
+            },
+            "properties": {
+                "Codigo": "12",
+                "lati": "04\u00b048'46,47987\"N",
+                "longi": "75\u00b044'31,64299\"W",
+                "Nombre": "AEMT",
+                "MDANMNombr": "Pereira",
+                "DeNombre": "Risaralda",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.64110996,
+                    3.20017907
+                ]
+            },
+            "properties": {
+                "Codigo": "13",
+                "lati": "03\u00b012'00.64465\"N",
+                "longi": "75\u00b038'27.99586\"W",
+                "Nombre": "AEP1",
+                "MDANMNombr": "Planadas",
+                "DeNombre": "Tolima",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.382448,
+                    3.53283568
+                ]
+            },
+            "properties": {
+                "Codigo": "14",
+                "lati": "03\u00b031'58,20847\"N",
+                "longi": "76\u00b022'56,81280\"W",
+                "Nombre": "AEPA",
+                "MDANMNombr": "Palmira",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.23093532,
+                    11.11252827
+                ]
+            },
+            "properties": {
+                "Codigo": "15",
+                "lati": "11\u00b006'45,10180\"N",
+                "longi": "74\u00b013'51,36713\"W",
+                "Nombre": "AESI",
+                "MDANMNombr": "Santa Marta",
+                "DeNombre": "Magdalena",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.18935,
+                    10.58490346
+                ]
+            },
+            "properties": {
+                "Codigo": "16",
+                "lati": "10\u00b035'05,65248\"N",
+                "longi": "74\u00b011'21,65998\"W",
+                "Nombre": "AGAB",
+                "MDANMNombr": "Aracataca",
+                "DeNombre": "Magdalena",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.59541846,
+                    8.31504785
+                ]
+            },
+            "properties": {
+                "Codigo": "17",
+                "lati": "08\u00b018'54,17227\"N",
+                "longi": "73\u00b035'43,50645\"W",
+                "Nombre": "AGCA",
+                "MDANMNombr": "Aguachica",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.37370225,
+                    5.51988455
+                ]
+            },
+            "properties": {
+                "Codigo": "18",
+                "lati": "05\u00b031'11,58437\"N",
+                "longi": "73\u00b022'25,32810\"W",
+                "Nombre": "AGTU",
+                "MDANMNombr": "Tunja",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8845491,
+                    5.21041033
+                ]
+            },
+            "properties": {
+                "Codigo": "19",
+                "lati": "05\u00b012'37,47718\"N",
+                "longi": "74\u00b053'04,37676\"W",
+                "Nombre": "AJCM",
+                "MDANMNombr": "Mariquita",
+                "DeNombre": "Tolima",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.38943608,
+                    7.76052003
+                ]
+            },
+            "properties": {
+                "Codigo": "20",
+                "lati": "07\u00b045'37,87209\"N",
+                "longi": "73\u00b023'21,96987\"W",
+                "Nombre": "ALBE",
+                "MDANMNombr": "San Alberto",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.91775643,
+                    11.52798519
+                ]
+            },
+            "properties": {
+                "Codigo": "21",
+                "lati": "11\u00b031'40,74670\"N",
+                "longi": "72\u00b055'03,92316\"W",
+                "Nombre": "ALPA",
+                "MDANMNombr": "Riohacha",
+                "DeNombre": "La Guajira",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.87013926,
+                    3.53466222
+                ]
+            },
+            "properties": {
+                "Codigo": "22",
+                "lati": "03\u00b032'04,78397\"N",
+                "longi": "76\u00b052'12,50134\"W",
+                "Nombre": "ANCH",
+                "MDANMNombr": "Dagua",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.70072929,
+                    12.58634722
+                ]
+            },
+            "properties": {
+                "Codigo": "23",
+                "lati": "12\u00b035'10,85001\"N",
+                "longi": "81\u00b042'02,62553\"W",
+                "Nombre": "ANDS",
+                "MDANMNombr": "San Andr\u00e9s",
+                "DeNombre": "Archipi\u00e9lago De San Andr\u00e9s, Providencia Y Santa C*",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63238975,
+                    7.87778836
+                ]
+            },
+            "properties": {
+                "Codigo": "24",
+                "lati": "07\u00b052'40,03811\"N",
+                "longi": "76\u00b037'56,60308\"W",
+                "Nombre": "APTO",
+                "MDANMNombr": "Apartad\u00f3",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.40690628,
+                    7.0250067
+                ]
+            },
+            "properties": {
+                "Codigo": "25",
+                "lati": "07\u00b001'30,02412\"N",
+                "longi": "71\u00b024'24,86259\"W",
+                "Nombre": "AQTA",
+                "MDANMNombr": "Arauquita",
+                "DeNombre": "Arauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.75853383,
+                    7.08427728
+                ]
+            },
+            "properties": {
+                "Codigo": "26",
+                "lati": "07\u00b005'03,39821\"N",
+                "longi": "70\u00b045'30,72180\"W",
+                "Nombre": "ARCA",
+                "MDANMNombr": "Arauca",
+                "DeNombre": "Arauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2404233,
+                    2.28846269
+                ]
+            },
+            "properties": {
+                "Codigo": "27",
+                "lati": "02\u00b017'18.46567\"N",
+                "longi": "77\u00b014'25.52389\"W",
+                "Nombre": "ARGL",
+                "MDANMNombr": "Argelia",
+                "DeNombre": "Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.79627381,
+                    4.27244173
+                ]
+            },
+            "properties": {
+                "Codigo": "28",
+                "lati": "04\u00b016'20,79024\"N",
+                "longi": "74\u00b047'46,58570\"W",
+                "Nombre": "ASVI",
+                "MDANMNombr": "Flandes",
+                "DeNombre": "Tolima",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.23407578,
+                    0.7424775
+                ]
+            },
+            "properties": {
+                "Codigo": "29",
+                "lati": "00\u00b044'32,91897\"N",
+                "longi": "75\u00b014'02,67280\"W",
+                "Nombre": "BA3E",
+                "MDANMNombr": "Solano",
+                "DeNombre": "Caquet\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.55401277,
+                    4.07180292
+                ]
+            },
+            "properties": {
+                "Codigo": "30",
+                "lati": "04\u00b004'18,49054\"N",
+                "longi": "73\u00b033'14,44595\"W",
+                "Nombre": "BAAP",
+                "MDANMNombr": "Villavicencio",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69192722,
+                    9.40243829
+                ]
+            },
+            "properties": {
+                "Codigo": "31",
+                "lati": "09\u00b024'08,77785\"N",
+                "longi": "75\u00b041'30,93800\"W",
+                "Nombre": "BACO",
+                "MDANMNombr": "Cove\u00f1as",
+                "DeNombre": "Sucre",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5650852,
+                    4.23559724
+                ]
+            },
+            "properties": {
+                "Codigo": "32",
+                "lati": "04\u00b014'08,15008\"N",
+                "longi": "74\u00b033'54,30671\"W",
+                "Nombre": "BAME",
+                "MDANMNombr": "Melgar",
+                "DeNombre": "Tolima",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.65750874,
+                    5.46641655
+                ]
+            },
+            "properties": {
+                "Codigo": "33",
+                "lati": "05\u00b027'59,09956\"N",
+                "longi": "74\u00b039'27,03146\"W",
+                "Nombre": "BAPA",
+                "MDANMNombr": "Puerto Salgar",
+                "DeNombre": "Cundinamarca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.39323084,
+                    6.20297066
+                ]
+            },
+            "properties": {
+                "Codigo": "34",
+                "lati": "06\u00b012'10,69436\"N",
+                "longi": "77\u00b023'35,63102\"W",
+                "Nombre": "BASO",
+                "MDANMNombr": "Bah\u00eda Solano",
+                "DeNombre": "Choc\u00f3",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.27926163,
+                    9.70209997
+                ]
+            },
+            "properties": {
+                "Codigo": "35",
+                "lati": "09\u00b042'07,55988\"N",
+                "longi": "73\u00b016'45,34187\"W",
+                "Nombre": "BECE",
+                "MDANMNombr": "Becerril",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87559104,
+                    7.0606373
+                ]
+            },
+            "properties": {
+                "Codigo": "36",
+                "lati": "07\u00b003'38,29428\"N",
+                "longi": "73\u00b052'32,12775\"W",
+                "Nombre": "BEJA",
+                "MDANMNombr": "Barrancabermeja",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.41030916,
+                    6.49268541
+                ]
+            },
+            "properties": {
+                "Codigo": "37",
+                "lati": "06\u00b029'33,66746\"N",
+                "longi": "74\u00b024'37,11297\"W",
+                "Nombre": "BERR",
+                "MDANMNombr": "Puerto Berrio",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.12374236,
+                    7.10488954
+                ]
+            },
+            "properties": {
+                "Codigo": "38",
+                "lati": "07\u00b006'17,60236\"N",
+                "longi": "73\u00b007'25,47250\"W",
+                "Nombre": "BNGA",
+                "MDANMNombr": "Bucaramanga",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.35755312,
+                    8.31244592
+                ]
+            },
+            "properties": {
+                "Codigo": "39",
+                "lati": "08\u00b018'44,80529\"N",
+                "longi": "73\u00b021'27,19122\"W",
+                "Nombre": "BOBG",
+                "MDANMNombr": "Oca\u00f1a",
+                "DeNombre": "Norte de Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.07994956,
+                    4.63868309
+                ]
+            },
+            "properties": {
+                "Codigo": "40",
+                "lati": "04\u00b038'19,25912\"N",
+                "longi": "74\u00b004'47,81842\"W",
+                "Nombre": "BOGA",
+                "MDANMNombr": "Bogot\u00e1 D.C.",
+                "DeNombre": "Bogot\u00e1 D.C.",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.08093965,
+                    4.64007518
+                ]
+            },
+            "properties": {
+                "Codigo": "41",
+                "lati": "04\u00b038'24,27066\"N",
+                "longi": "74\u00b004'51,38276\"W",
+                "Nombre": "BOGT",
+                "MDANMNombr": "Bogot\u00e1 D.C.",
+                "DeNombre": "Bogot\u00e1 D.C.",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8862272,
+                    9.96689232
+                ]
+            },
+            "properties": {
+                "Codigo": "42",
+                "lati": "09\u00b058'00,81236\"N",
+                "longi": "73\u00b053'10,41794\"W",
+                "Nombre": "BOSC",
+                "MDANMNombr": "Bosconia",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8496399,
+                    11.01971045
+                ]
+            },
+            "properties": {
+                "Codigo": "43",
+                "lati": "11\u00b001'10,95760\"N",
+                "longi": "74\u00b050'58,70365\"W",
+                "Nombre": "BQLA",
+                "MDANMNombr": "Barranquilla",
+                "DeNombre": "Atl\u00e1ntico",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01041981,
+                    3.88202451
+                ]
+            },
+            "properties": {
+                "Codigo": "44",
+                "lati": "03\u00b052'55,28826\"N",
+                "longi": "77\u00b000'37,51134\"W",
+                "Nombre": "BUEN",
+                "MDANMNombr": "Buenaventura",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.99579813,
+                    3.82568656
+                ]
+            },
+            "properties": {
+                "Codigo": "45",
+                "lati": "03\u00b049'32,47162\"N",
+                "longi": "76\u00b059'44,87327\"W",
+                "Nombre": "BUGT",
+                "MDANMNombr": "Buenaventura",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5325642,
+                    3.37578849
+                ]
+            },
+            "properties": {
+                "Codigo": "46",
+                "lati": "03\u00b022'32,83854\"N",
+                "longi": "76\u00b031'57,23114\"W",
+                "Nombre": "CALI",
+                "MDANMNombr": "Cali",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.48204423,
+                    6.18522693
+                ]
+            },
+            "properties": {
+                "Codigo": "47",
+                "lati": "06\u00b011'06.81693\"N",
+                "longi": "67\u00b028'55.35919\"W",
+                "Nombre": "CAN0",
+                "MDANMNombr": "Puerto Carre\u00f1o",
+                "DeNombre": "Vichada",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.42775745,
+                    5.35142413
+                ]
+            },
+            "properties": {
+                "Codigo": "48",
+                "lati": "05\u00b021'05,12689\"N",
+                "longi": "72\u00b025'39,92683\"W",
+                "Nombre": "CAPI",
+                "MDANMNombr": "Yopal",
+                "DeNombre": "Casanare",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.53385183,
+                    10.39133587
+                ]
+            },
+            "properties": {
+                "Codigo": "49",
+                "lati": "10\u00b023'28,80915\"N",
+                "longi": "75\u00b032'1,866580\"W",
+                "Nombre": "CART",
+                "MDANMNombr": "Cartagena",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2000331,
+                    7.98884105
+                ]
+            },
+            "properties": {
+                "Codigo": "50",
+                "lati": "07\u00b059'19,82778\"N",
+                "longi": "75\u00b012'00,11915\"W",
+                "Nombre": "CASI",
+                "MDANMNombr": "Caucasia",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.72878488,
+                    1.81997921
+                ]
+            },
+            "properties": {
+                "Codigo": "51",
+                "lati": "01\u00b049'11,92513\"N",
+                "longi": "78\u00b043'43,62557\"W",
+                "Nombre": "CCCP",
+                "MDANMNombr": "Tumaco",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.35742619,
+                    3.50528937
+                ]
+            },
+            "properties": {
+                "Codigo": "52",
+                "lati": "03\u00b030'19,04174\"N",
+                "longi": "76\u00b021'26,73428\"W",
+                "Nombre": "CIA1",
+                "MDANMNombr": "Palmira",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.53388289,
+                    10.3908182
+                ]
+            },
+            "properties": {
+                "Codigo": "53",
+                "lati": "10\u00b023'26,94550\"N",
+                "longi": "75\u00b032'01,97840\"W",
+                "Nombre": "CIOH",
+                "MDANMNombr": "Cartagena",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.57954187,
+                    1.65198506
+                ]
+            },
+            "properties": {
+                "Codigo": "54",
+                "lati": "01\u00b039'07.14620\"N",
+                "longi": "77\u00b034'46.35075\"W",
+                "Nombre": "CMBI",
+                "MDANMNombr": "Cumbitara",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.53159631,
+                    9.20194693
+                ]
+            },
+            "properties": {
+                "Codigo": "55",
+                "lati": "09\u00b012'07.00893\"N",
+                "longi": "73\u00b031'53.74672\"W",
+                "Nombre": "CMNI",
+                "MDANMNombr": "Curuman\u00ed",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.36291985,
+                    13.37549589
+                ]
+            },
+            "properties": {
+                "Codigo": "56",
+                "lati": "13\u00b022'31,78520\"N",
+                "longi": "81\u00b021'46,51152\"W",
+                "Nombre": "CN35",
+                "MDANMNombr": "Providencia",
+                "DeNombre": "Archipi\u00e9lago De San Andr\u00e9s, Providencia Y Santa C*",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.26317448,
+                    10.79257813
+                ]
+            },
+            "properties": {
+                "Codigo": "57",
+                "lati": "10\u00b047'33,28124\"N",
+                "longi": "75\u00b015'47,42815\"W",
+                "Nombre": "CN37",
+                "MDANMNombr": "Santa Catalina",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.71843909,
+                    3.53078885
+                ]
+            },
+            "properties": {
+                "Codigo": "58",
+                "lati": "03\u00b031'50.83987\"N",
+                "longi": "74\u00b043'06.38073\"W",
+                "Nombre": "COLH",
+                "MDANMNombr": "Colombia",
+                "DeNombre": "Huila",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.97624063,
+                    1.18316945
+                ]
+            },
+            "properties": {
+                "Codigo": "59",
+                "lati": "01\u00b010'59,41002\"N",
+                "longi": "76\u00b058'34,46627\"W",
+                "Nombre": "COLN",
+                "MDANMNombr": "Col\u00f3n",
+                "DeNombre": "Putumayo",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.28785372,
+                    9.32808875
+                ]
+            },
+            "properties": {
+                "Codigo": "60",
+                "lati": "09\u00b019'41,11949\"N",
+                "longi": "75\u00b017'16,27340\"W",
+                "Nombre": "CORO",
+                "MDANMNombr": "Corozal",
+                "DeNombre": "Sucre",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.55468335,
+                    4.47227469
+                ]
+            },
+            "properties": {
+                "Codigo": "61",
+                "lati": "04\u00b028'20,18886\"N",
+                "longi": "75\u00b033'16,86007\"W",
+                "Nombre": "CPAS",
+                "MDANMNombr": "Calarc\u00e1",
+                "DeNombre": "Quind\u00edo",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.51281326,
+                    7.93227613
+                ]
+            },
+            "properties": {
+                "Codigo": "62",
+                "lati": "07\u00b055'56,19409\"N",
+                "longi": "72\u00b030'46,12774\"W",
+                "Nombre": "CUC1",
+                "MDANMNombr": "C\u00facuta",
+                "DeNombre": "Norte de Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.48793925,
+                    7.89845992
+                ]
+            },
+            "properties": {
+                "Codigo": "63",
+                "lati": "07\u00b053'54,45572\"N",
+                "longi": "72\u00b029'16,58131\"W",
+                "Nombre": "CUCU",
+                "MDANMNombr": "C\u00facuta",
+                "DeNombre": "Norte de Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67973088,
+                    3.73907169
+                ]
+            },
+            "properties": {
+                "Codigo": "64",
+                "lati": "03\u00b044'20,65807\"N",
+                "longi": "76\u00b040'47,03117\"W",
+                "Nombre": "DAGA",
+                "MDANMNombr": "Dagua",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.82362321,
+                    11.0401376
+                ]
+            },
+            "properties": {
+                "Codigo": "65",
+                "lati": "11\u00b002'24,49538\"N",
+                "longi": "74\u00b049'25,04357\"W",
+                "Nombre": "DICA",
+                "MDANMNombr": "Barranquilla",
+                "DeNombre": "Atl\u00e1ntico",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.6633129,
+                    5.45384634
+                ]
+            },
+            "properties": {
+                "Codigo": "66",
+                "lati": "05\u00b027'13,84682\"N",
+                "longi": "74\u00b039'47,92646\"W",
+                "Nombre": "DORA",
+                "MDANMNombr": "La Dorada",
+                "DeNombre": "Caldas",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.79149026,
+                    7.59181565
+                ]
+            },
+            "properties": {
+                "Codigo": "67",
+                "lati": "07\u00b035'30,53631\"N",
+                "longi": "74\u00b047'29,36494\"W",
+                "Nombre": "EBPT",
+                "MDANMNombr": "El Bagre",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.10109065,
+                    1.9893141
+                ]
+            },
+            "properties": {
+                "Codigo": "68",
+                "lati": "01\u00b059'21,53077\"N",
+                "longi": "77\u00b006'03,92635\"W",
+                "Nombre": "EBRD",
+                "MDANMNombr": "Pat\u00eda",
+                "DeNombre": "Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.87610647,
+                    11.25280597
+                ]
+            },
+            "properties": {
+                "Codigo": "69",
+                "lati": "11\u00b015'10,10152\"N",
+                "longi": "72\u00b052'33,98329\"W",
+                "Nombre": "FIDE",
+                "MDANMNombr": "Riohacha",
+                "DeNombre": "La Guajira",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.73480849,
+                    5.46734495
+                ]
+            },
+            "properties": {
+                "Codigo": "70",
+                "lati": "05\u00b028'02,44185\"N",
+                "longi": "73\u00b044'05,31059\"W",
+                "Nombre": "FQNE",
+                "MDANMNombr": "F\u00faquene",
+                "DeNombre": "Cundinamarca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.36003755,
+                    5.08133453
+                ]
+            },
+            "properties": {
+                "Codigo": "71",
+                "lati": "05\u00b004'52,80431\"N",
+                "longi": "73\u00b021'36,13517\"W",
+                "Nombre": "GARA",
+                "MDANMNombr": "Garagoa",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.75986875,
+                    9.2399375
+                ]
+            },
+            "properties": {
+                "Codigo": "72",
+                "lati": "09\u00b014'23,77500\"N",
+                "longi": "74\u00b045'35,52748\"W",
+                "Nombre": "GGUE",
+                "MDANMNombr": "Magangu\u00e9",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.89467962,
+                    2.57448009
+                ]
+            },
+            "properties": {
+                "Codigo": "73",
+                "lati": "02\u00b034'28,12833\"N",
+                "longi": "77\u00b053'40,84663\"W",
+                "Nombre": "GUAP",
+                "MDANMNombr": "Guapi",
+                "DeNombre": "Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68854416,
+                    7.06953339
+                ]
+            },
+            "properties": {
+                "Codigo": "74",
+                "lati": "07\u00b004'10,32021\"N",
+                "longi": "75\u00b041'18,75896\"W",
+                "Nombre": "HITU",
+                "MDANMNombr": "Ituango",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.21472343,
+                    4.4280464
+                ]
+            },
+            "properties": {
+                "Codigo": "75",
+                "lati": "04\u00b025'40,96704\"N",
+                "longi": "75\u00b012'53,00433\"W",
+                "Nombre": "IBAG",
+                "MDANMNombr": "Ibagu\u00e9",
+                "DeNombre": "Tolima",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.92584315,
+                    3.86621112
+                ]
+            },
+            "properties": {
+                "Codigo": "76",
+                "lati": "03\u00b051'58,36005\"N",
+                "longi": "67\u00b055'33,03532\"W",
+                "Nombre": "INIR",
+                "MDANMNombr": "In\u00edrida",
+                "DeNombre": "Guain\u00eda",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.96788738,
+                    4.59474776
+                ]
+            },
+            "properties": {
+                "Codigo": "77",
+                "lati": "04\u00b035'41,09194\"N",
+                "longi": "75\u00b058'04,39455\"W",
+                "Nombre": "INOB",
+                "MDANMNombr": "Obando",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89718293,
+                    4.90858785
+                ]
+            },
+            "properties": {
+                "Codigo": "78",
+                "lati": "04\u00b054'30,91628\"N",
+                "longi": "75\u00b053'49,85855\"W",
+                "Nombre": "INRI",
+                "MDANMNombr": "Balboa",
+                "DeNombre": "Risaralda",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.85437784,
+                    5.03160343
+                ]
+            },
+            "properties": {
+                "Codigo": "79",
+                "lati": "05\u00b001'53,77232\"N",
+                "longi": "75\u00b051'15,76024\"W",
+                "Nombre": "INSJ",
+                "MDANMNombr": "San Jos\u00e9",
+                "DeNombre": "Caldas",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.04278013,
+                    4.64221998
+                ]
+            },
+            "properties": {
+                "Codigo": "80",
+                "lati": "04\u00b038'31,99194\"N",
+                "longi": "76\u00b002'34,00848\"W",
+                "Nombre": "INTO",
+                "MDANMNombr": "Toro",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.23178005,
+                    11.18812492
+                ]
+            },
+            "properties": {
+                "Codigo": "81",
+                "lati": "11\u00b011'17,24972\"N",
+                "longi": "74\u00b013'54,40820\"W",
+                "Nombre": "INVE",
+                "MDANMNombr": "Santa Marta",
+                "DeNombre": "Magdalena",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.09156994,
+                    1.85523498
+                ]
+            },
+            "properties": {
+                "Codigo": "82",
+                "lati": "01\u00b051'18,84594\"N",
+                "longi": "76\u00b005'29,65180\"W",
+                "Nombre": "LAB1",
+                "MDANMNombr": "Pitalito",
+                "DeNombre": "Huila",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.95105831,
+                    1.56646615
+                ]
+            },
+            "properties": {
+                "Codigo": "83",
+                "lati": "01\u00b033'59,27815\"N",
+                "longi": "76\u00b057'03,80990\"W",
+                "Nombre": "LEDE",
+                "MDANMNombr": "La Cruz",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.94297041,
+                    -4.21417858
+                ]
+            },
+            "properties": {
+                "Codigo": "84",
+                "lati": "04\u00b012'51,04289\"S",
+                "longi": "69\u00b056'34,69346\"W",
+                "Nombre": "LETA",
+                "MDANMNombr": "Leticia",
+                "DeNombre": "Amazonas",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.02527443,
+                    6.78787418
+                ]
+            },
+            "properties": {
+                "Codigo": "85",
+                "lati": "06\u00b047'16,34708\"N",
+                "longi": "71\u00b001'30,98792\"W",
+                "Nombre": "LIPA",
+                "MDANMNombr": "Arauquita",
+                "DeNombre": "Arauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.66201713,
+                    6.33668033
+                ]
+            },
+            "properties": {
+                "Codigo": "86",
+                "lati": "06\u00b020'12,04919\"N",
+                "longi": "72\u00b039'43,26166\"W",
+                "Nombre": "MAKA",
+                "MDANMNombr": "Soata",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5789162,
+                    6.19940607
+                ]
+            },
+            "properties": {
+                "Codigo": "87",
+                "lati": "06\u00b011'57,86186\"N",
+                "longi": "75\u00b034'44,09833\"W",
+                "Nombre": "MEDE",
+                "MDANMNombr": "Medell\u00edn",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.18086926,
+                    1.76305849
+                ]
+            },
+            "properties": {
+                "Codigo": "88",
+                "lati": "01\u00b045'47.01058\"N",
+                "longi": "78\u00b010'51.12937\"W",
+                "Nombre": "MGUI",
+                "MDANMNombr": "Mag\u00fc\u00ed Pay\u00e1n",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.23212682,
+                    1.26078201
+                ]
+            },
+            "properties": {
+                "Codigo": "89",
+                "lati": "01\u00b015'38,81525\"N",
+                "longi": "70\u00b013'55,65658\"W",
+                "Nombre": "MITU",
+                "MDANMNombr": "Mit\u00fa",
+                "DeNombre": "Vaup\u00e9s",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.62639703,
+                    8.54224997
+                ]
+            },
+            "properties": {
+                "Codigo": "90",
+                "lati": "08\u00b032'32.09991\"N",
+                "longi": "74\u00b037'35.02929\"W",
+                "Nombre": "MJGL",
+                "MDANMNombr": "Majagual",
+                "DeNombre": "Sucre",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.68301268,
+                    8.95890611
+                ]
+            },
+            "properties": {
+                "Codigo": "91",
+                "lati": "08\u00b057'32,06202\"N",
+                "longi": "73\u00b040'58,84565\"W",
+                "Nombre": "MORA",
+                "MDANMNombr": "Pailitas",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.86066757,
+                    8.79196628
+                ]
+            },
+            "properties": {
+                "Codigo": "92",
+                "lati": "08\u00b047'31,07858\"N",
+                "longi": "75\u00b051'38,40324\"W",
+                "Nombre": "MOTE",
+                "MDANMNombr": "Monter\u00eda",
+                "DeNombre": "C\u00f3rdoba",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.47052481,
+                    5.02999627
+                ]
+            },
+            "properties": {
+                "Codigo": "93",
+                "lati": "05\u00b001'47,98655\"N",
+                "longi": "75\u00b028'13,88932\"W",
+                "Nombre": "MZAL",
+                "MDANMNombr": "Manizales",
+                "DeNombre": "Caldas",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.29303158,
+                    2.93730207
+                ]
+            },
+            "properties": {
+                "Codigo": "94",
+                "lati": "02\u00b056'14,28746\"N",
+                "longi": "75\u00b017'34,91365\"W",
+                "Nombre": "NEVA",
+                "MDANMNombr": "Neiva",
+                "DeNombre": "Huila",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.03497832,
+                    8.53686471
+                ]
+            },
+            "properties": {
+                "Codigo": "95",
+                "lati": "08\u00b032'12.71295\"N",
+                "longi": "74\u00b002'05.92197\"W",
+                "Nombre": "NRSI",
+                "MDANMNombr": "Noros\u00ed",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.55802944,
+                    5.64720891
+                ]
+            },
+            "properties": {
+                "Codigo": "96",
+                "lati": "05\u00b038'49,95207\"N",
+                "longi": "73\u00b033'28,90596\"W",
+                "Nombre": "OAMU",
+                "MDANMNombr": "Villa de Leyva",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.61581269,
+                    4.27118285
+                ]
+            },
+            "properties": {
+                "Codigo": "97",
+                "lati": "04\u00b016'16,25825\"N",
+                "longi": "71\u00b036'56,92568\"W",
+                "Nombre": "OCEL",
+                "MDANMNombr": "Puerto Gait\u00e1n",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8765882,
+                    0.66492334
+                ]
+            },
+            "properties": {
+                "Codigo": "98",
+                "lati": "00\u00b039'53,72401\"N",
+                "longi": "76\u00b052'35,71754\"W",
+                "Nombre": "ORIT",
+                "MDANMNombr": "Orito",
+                "DeNombre": "Putumayo",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.22781156,
+                    9.52896904
+                ]
+            },
+            "properties": {
+                "Codigo": "99",
+                "lati": "09\u00b031'44,28851\"N",
+                "longi": "75\u00b013'40,12161\"W",
+                "Nombre": "OVEJ",
+                "MDANMNombr": "Ovejas",
+                "DeNombre": "Sucre",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.25663386,
+                    1.21019185
+                ]
+            },
+            "properties": {
+                "Codigo": "100",
+                "lati": "01\u00b012'36,69064\"N",
+                "longi": "77\u00b015'23,8819\"W",
+                "Nombre": "OVSC",
+                "MDANMNombr": "Pasto",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.18417412,
+                    7.13102771
+                ]
+            },
+            "properties": {
+                "Codigo": "101",
+                "lati": "07\u00b007'51,69976\"N",
+                "longi": "73\u00b011'3,02682\"W",
+                "Nombre": "PAL2",
+                "MDANMNombr": "Lebrija",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.64777998,
+                    7.38418419
+                ]
+            },
+            "properties": {
+                "Codigo": "102",
+                "lati": "07\u00b023'03,06309\"N",
+                "longi": "72\u00b038'52,00795\"W",
+                "Nombre": "PAMP",
+                "MDANMNombr": "Pamplona",
+                "DeNombre": "Norte de Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.49940024,
+                    0.51277937
+                ]
+            },
+            "properties": {
+                "Codigo": "103",
+                "lati": "00\u00b030'46,00571\"N",
+                "longi": "76\u00b029'57,84087\"W",
+                "Nombre": "PASI",
+                "MDANMNombr": "Puerto As\u00eds",
+                "DeNombre": "Putumayo",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.12566732,
+                    5.74649545
+                ]
+            },
+            "properties": {
+                "Codigo": "104",
+                "lati": "05\u00b044'47,38362\"N",
+                "longi": "73\u00b007'32,40234\"W",
+                "Nombre": "PATU",
+                "MDANMNombr": "Paipa",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68950922,
+                    4.79249752
+                ]
+            },
+            "properties": {
+                "Codigo": "105",
+                "lati": "04\u00b047'32,99108\"N",
+                "longi": "75\u00b041'22,23319\"W",
+                "Nombre": "PERA",
+                "MDANMNombr": "Pereira",
+                "DeNombre": "Risaralda",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.09258026,
+                    4.32057379
+                ]
+            },
+            "properties": {
+                "Codigo": "106",
+                "lati": "04\u00b019'14,04199\"N",
+                "longi": "72\u00b005'33,30602\"W",
+                "Nombre": "PGTN",
+                "MDANMNombr": "Puerto Gait\u00e1n",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.40447128,
+                    0.96781041
+                ]
+            },
+            "properties": {
+                "Codigo": "107",
+                "lati": "00\u00b058'04,11747\"N",
+                "longi": "76\u00b024'16,09663\"W",
+                "Nombre": "PGUZ",
+                "MDANMNombr": "Puerto Guzman",
+                "DeNombre": "Putumayo",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.45868359,
+                    8.914458
+                ]
+            },
+            "properties": {
+                "Codigo": "108",
+                "lati": "08\u00b054'52.04881\"N",
+                "longi": "74\u00b027'31.26092\"W",
+                "Nombre": "PINI",
+                "MDANMNombr": "Pinillos",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.33210015,
+                    5.04382722
+                ]
+            },
+            "properties": {
+                "Codigo": "109",
+                "lati": "05\u00b002'37,77799\"N",
+                "longi": "75\u00b019'55,56055\"W",
+                "Nombre": "PLTR",
+                "MDANMNombr": "Manizales",
+                "DeNombre": "Caldas",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60120559,
+                    2.44311547
+                ]
+            },
+            "properties": {
+                "Codigo": "110",
+                "lati": "02\u00b026'35,21571\"N",
+                "longi": "76\u00b036'04,34012\"W",
+                "Nombre": "POPA",
+                "MDANMNombr": "Popay\u00e1n",
+                "DeNombre": "Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61474402,
+                    2.44909023
+                ]
+            },
+            "properties": {
+                "Codigo": "111",
+                "lati": "02\u00b026'56,72484\"N",
+                "longi": "76\u00b036'53,07849\"W",
+                "Nombre": "POVA",
+                "MDANMNombr": "Popay\u00e1n",
+                "DeNombre": "Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.41772485,
+                    5.4819693
+                ]
+            },
+            "properties": {
+                "Codigo": "112",
+                "lati": "05\u00b028'55.08949\"N",
+                "longi": "70\u00b025'03.80947\"W",
+                "Nombre": "PRVA",
+                "MDANMNombr": "La Primavera",
+                "DeNombre": "Vichada",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.27708035,
+                    1.21171274
+                ]
+            },
+            "properties": {
+                "Codigo": "113",
+                "lati": "01\u00b012'42,16585\"N",
+                "longi": "77\u00b016'37,48928\"W",
+                "Nombre": "PSTO",
+                "MDANMNombr": "Pasto",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1196452,
+                    1.97275143
+                ]
+            },
+            "properties": {
+                "Codigo": "114",
+                "lati": "01\u00b058'21.90512\"N",
+                "longi": "77\u00b007'10.72271\"W",
+                "Nombre": "PTIA",
+                "MDANMNombr": "Patia",
+                "DeNombre": "Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.57452662,
+                    10.42236795
+                ]
+            },
+            "properties": {
+                "Codigo": "115",
+                "lati": "10\u00b025'20,52463\"N",
+                "longi": "73\u00b034'28,29583\"W",
+                "Nombre": "PUBE",
+                "MDANMNombr": "Pueblo Bello",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.90334084,
+                    3.85120035
+                ]
+            },
+            "properties": {
+                "Codigo": "116",
+                "lati": "03\u00b051'04,32125\"N",
+                "longi": "67\u00b054'12,02702\"W",
+                "Nombre": "PUIN",
+                "MDANMNombr": "In\u00edrida",
+                "DeNombre": "Guain\u00eda",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.75264986,
+                    7.8141408
+                ]
+            },
+            "properties": {
+                "Codigo": "117",
+                "lati": "07\u00b048'50,90690\"N",
+                "longi": "73\u00b045'09,53952\"W",
+                "Nombre": "PWIL",
+                "MDANMNombr": "Puerto Wilches",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65672988,
+                    5.69963838
+                ]
+            },
+            "properties": {
+                "Codigo": "118",
+                "lati": "05\u00b041'58,69816\"N",
+                "longi": "76\u00b039'24,22761\"W",
+                "Nombre": "QUIB",
+                "MDANMNombr": "Quibd\u00f3",
+                "DeNombre": "Choco",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.29094851,
+                    1.39392616
+                ]
+            },
+            "properties": {
+                "Codigo": "119",
+                "lati": "01\u00b023'38,13420\"N",
+                "longi": "77\u00b017'27,41461\"W",
+                "Nombre": "QUIL",
+                "MDANMNombr": "Chachag\u00fc\u00ed",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.86970148,
+                    11.51321701
+                ]
+            },
+            "properties": {
+                "Codigo": "120",
+                "lati": "11\u00b030'47,58123\"N",
+                "longi": "72\u00b052'10,92531\"W",
+                "Nombre": "RIOH",
+                "MDANMNombr": "Riohacha",
+                "DeNombre": "La Guajira",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.72263278,
+                    5.04564624
+                ]
+            },
+            "properties": {
+                "Codigo": "121",
+                "lati": "05\u00b002'44,32648\"N",
+                "longi": "70\u00b043'21,47797\"W",
+                "Nombre": "RSLA",
+                "MDANMNombr": "Santa Rosal\u00eda",
+                "DeNombre": "Vichada",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.42376431,
+                    3.7934014
+                ]
+            },
+            "properties": {
+                "Codigo": "122",
+                "lati": "03\u00b047'36,24506\"N",
+                "longi": "71\u00b025'25,55152\"W",
+                "Nombre": "RUBI",
+                "MDANMNombr": "Puerto Gait\u00e1n",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.18709213,
+                    11.22524887
+                ]
+            },
+            "properties": {
+                "Codigo": "123",
+                "lati": "11\u00b013'30,89594\"N",
+                "longi": "74\u00b011'13,53167\"W",
+                "Nombre": "SAMA",
+                "MDANMNombr": "Santa Marta",
+                "DeNombre": "Magdalena",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.71572101,
+                    12.58045095
+                ]
+            },
+            "properties": {
+                "Codigo": "124",
+                "lati": "12\u00b034'49,62343\"N",
+                "longi": "81\u00b042'56,59568\"W",
+                "Nombre": "SAN0",
+                "MDANMNombr": "San Andr\u00e9s",
+                "DeNombre": "Archipi\u00e9lago De San Andr\u00e9s, Providencia Y Santa C*",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57303794,
+                    1.70562268
+                ]
+            },
+            "properties": {
+                "Codigo": "125",
+                "lati": "01\u00b042'20.24164\"N",
+                "longi": "76\u00b034'22.93659\"W",
+                "Nombre": "SARO",
+                "MDANMNombr": "Santa Rosa",
+                "DeNombre": "Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.80228585,
+                    8.08345548
+                ]
+            },
+            "properties": {
+                "Codigo": "126",
+                "lati": "08\u00b005'00,43972\"N",
+                "longi": "72\u00b048'08,22904\"W",
+                "Nombre": "SDTA",
+                "MDANMNombr": "Sardinata",
+                "DeNombre": "Norte de Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.52912497,
+                    6.19087065
+                ]
+            },
+            "properties": {
+                "Codigo": "127",
+                "lati": "06\u00b011'27,13434\"N",
+                "longi": "75\u00b031'44,84988\"W",
+                "Nombre": "SEL1",
+                "MDANMNombr": "Medell\u00edn",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.52990906,
+                    3.37223274
+                ]
+            },
+            "properties": {
+                "Codigo": "128",
+                "lati": "03\u00b022'20,03789\"N",
+                "longi": "76\u00b031'47,67264\"W",
+                "Nombre": "SGCC",
+                "MDANMNombr": "Cali",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.06432257,
+                    6.99210253
+                ]
+            },
+            "properties": {
+                "Codigo": "129",
+                "lati": "06\u00b059'31,56912\"N",
+                "longi": "73\u00b003'51,56125\"W",
+                "Nombre": "SGCG",
+                "MDANMNombr": "Piedecuesta",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.37314543,
+                    2.60757187
+                ]
+            },
+            "properties": {
+                "Codigo": "130",
+                "lati": "02\u00b036'27,25873\"N",
+                "longi": "76\u00b022'23,32356\"W",
+                "Nombre": "SILP",
+                "MDANMNombr": "Silvia",
+                "DeNombre": "Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.38768309,
+                    9.31559225
+                ]
+            },
+            "properties": {
+                "Codigo": "131",
+                "lati": "09\u00b018'56,13211\"N",
+                "longi": "75\u00b023'15,65912\"W",
+                "Nombre": "SINC",
+                "MDANMNombr": "Sincelejo",
+                "DeNombre": "Sucre",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.07499614,
+                    9.95673462
+                ]
+            },
+            "properties": {
+                "Codigo": "132",
+                "lati": "09\u00b057'24,24465\"N",
+                "longi": "75\u00b004'29,98611\"W",
+                "Nombre": "SJNE",
+                "MDANMNombr": "San Juan Nepomuceno",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.83395664,
+                    3.79510185
+                ]
+            },
+            "properties": {
+                "Codigo": "133",
+                "lati": "03\u00b047'42.36668\"N",
+                "longi": "73\u00b050'02.24388\"W",
+                "Nombre": "SLCB",
+                "MDANMNombr": "San Luis de Cubarral",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.30833381,
+                    5.71507144
+                ]
+            },
+            "properties": {
+                "Codigo": "134",
+                "lati": "05\u00b042'54,25718\"N",
+                "longi": "75\u00b018'30,00171\"W",
+                "Nombre": "SNSN",
+                "MDANMNombr": "Sons\u00f3n",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6985245,
+                    5.99669263
+                ]
+            },
+            "properties": {
+                "Codigo": "135",
+                "lati": "05\u00b059'48,09349\"N",
+                "longi": "72\u00b041'54,68821\"W",
+                "Nombre": "SOCB",
+                "MDANMNombr": "Socha",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.52493963,
+                    9.72813066
+                ]
+            },
+            "properties": {
+                "Codigo": "136",
+                "lati": "09\u00b043'41,27039\"N",
+                "longi": "75\u00b031'29,78268\"W",
+                "Nombre": "SONE",
+                "MDANMNombr": "San Onofre",
+                "DeNombre": "Sucre",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.03841529,
+                    7.96136369
+                ]
+            },
+            "properties": {
+                "Codigo": "137",
+                "lati": "07\u00b057'40.90927\"N",
+                "longi": "74\u00b002'18.29505\"W",
+                "Nombre": "SRSR",
+                "MDANMNombr": "Santa Rosa del Sur",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.92469695,
+                    5.70987462
+                ]
+            },
+            "properties": {
+                "Codigo": "138",
+                "lati": "05\u00b042'35,54865\"N",
+                "longi": "72\u00b055'28,90904\"W",
+                "Nombre": "SUAM",
+                "MDANMNombr": "Sogamoso",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.87994206,
+                    10.34037741
+                ]
+            },
+            "properties": {
+                "Codigo": "139",
+                "lati": "10\u00b020'25,35869\"N",
+                "longi": "74\u00b052'47,79143\"W",
+                "Nombre": "SUAN",
+                "MDANMNombr": "Suan",
+                "DeNombre": "Atl\u00e1ntico",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.70685541,
+                    2.94471719
+                ]
+            },
+            "properties": {
+                "Codigo": "140",
+                "lati": "02\u00b056'40,98189\"N",
+                "longi": "76\u00b042'24,67946\"W",
+                "Nombre": "SUES",
+                "MDANMNombr": "Suarez",
+                "DeNombre": "Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.85952471,
+                    6.95392575
+                ]
+            },
+            "properties": {
+                "Codigo": "141",
+                "lati": "06\u00b057'14,13270\"N",
+                "longi": "71\u00b051'34,28895\"W",
+                "Nombre": "SVNA",
+                "MDANMNombr": "Saravena",
+                "DeNombre": "Arauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.40724846,
+                    7.57178597
+                ]
+            },
+            "properties": {
+                "Codigo": "142",
+                "lati": "07\u00b034'18,42949\"N",
+                "longi": "75\u00b024'26,09445\"W",
+                "Nombre": "TARZ",
+                "MDANMNombr": "Taraza",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.14714689,
+                    3.38038186
+                ]
+            },
+            "properties": {
+                "Codigo": "143",
+                "lati": "03\u00b022'49,37470\"N",
+                "longi": "75\u00b008'49,72878\"W",
+                "Nombre": "TCOA",
+                "MDANMNombr": "Villavieja",
+                "DeNombre": "Tolima",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.53931227,
+                    5.4217837
+                ]
+            },
+            "properties": {
+                "Codigo": "144",
+                "lati": "05\u00b025'18,42135\"N",
+                "longi": "73\u00b032'21,52419\"W",
+                "Nombre": "TEAT",
+                "MDANMNombr": "Samac\u00e1",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.73610115,
+                    8.63143066
+                ]
+            },
+            "properties": {
+                "Codigo": "145",
+                "lati": "08\u00b037'53,15037\"N",
+                "longi": "72\u00b044'09,96412\"W",
+                "Nombre": "TIBU",
+                "MDANMNombr": "Tibu",
+                "DeNombre": "Norte de Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.93938591,
+                    -4.18708362
+                ]
+            },
+            "properties": {
+                "Codigo": "146",
+                "lati": "04\u00b011'13,50101\"S",
+                "longi": "69\u00b056'21,78927\"W",
+                "Nombre": "TICU",
+                "MDANMNombr": "Leticia",
+                "DeNombre": "Amazonas",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.79218048,
+                    6.01457543
+                ]
+            },
+            "properties": {
+                "Codigo": "147",
+                "lati": "06\u00b000'52,47154\"N",
+                "longi": "75\u00b047'31,84971\"W",
+                "Nombre": "TITI",
+                "MDANMNombr": "Titirib\u00ed",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.1393088,
+                    6.32442731
+                ]
+            },
+            "properties": {
+                "Codigo": "148",
+                "lati": "06\u00b019'27,93831\"N",
+                "longi": "76\u00b008'21,51169\"W",
+                "Nombre": "TONE",
+                "MDANMNombr": "Urrao",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.30275177,
+                    5.33558809
+                ]
+            },
+            "properties": {
+                "Codigo": "149",
+                "lati": "05\u00b020'08.11711\"N",
+                "longi": "74\u00b018'09.90636\"W",
+                "Nombre": "TPPI",
+                "MDANMNombr": "Topaip\u00ed",
+                "DeNombre": "Cundinamarca",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.65322598,
+                    5.43344803
+                ]
+            },
+            "properties": {
+                "Codigo": "150",
+                "lati": "05\u00b026'00.41290\"N",
+                "longi": "71\u00b039'11.61353\"W",
+                "Nombre": "TRDA",
+                "MDANMNombr": "Trinidad",
+                "DeNombre": "Casanare",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.74770212,
+                    1.81485366
+                ]
+            },
+            "properties": {
+                "Codigo": "151",
+                "lati": "01\u00b048'53,47316\"N",
+                "longi": "78\u00b044'51,72763\"W",
+                "Nombre": "TUCO",
+                "MDANMNombr": "Tumaco",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.73041244,
+                    1.8222753
+                ]
+            },
+            "properties": {
+                "Codigo": "152",
+                "lati": "01\u00b049'20,19107\"N",
+                "longi": "78\u00b043'49,48478\"W",
+                "Nombre": "TUMA",
+                "MDANMNombr": "Tumaco",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.69786823,
+                    1.55088228
+                ]
+            },
+            "properties": {
+                "Codigo": "153",
+                "lati": "01\u00b033'03.17619\"N",
+                "longi": "78\u00b041'52.32565\"W",
+                "Nombre": "TUMC",
+                "MDANMNombr": "Tumaco",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.36388193,
+                    5.53133042
+                ]
+            },
+            "properties": {
+                "Codigo": "154",
+                "lati": "05\u00b031'52,78950\"N",
+                "longi": "73\u00b021'49,97496\"W",
+                "Nombre": "TUNA",
+                "MDANMNombr": "Tunja",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.63096669,
+                    1.0939568
+                ]
+            },
+            "properties": {
+                "Codigo": "155",
+                "lati": "01\u00b005'38,24447\"N",
+                "longi": "77\u00b037'51,48006\"W",
+                "Nombre": "TUQU",
+                "MDANMNombr": "Tuquerres",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09390526,
+                    4.61455694
+                ]
+            },
+            "properties": {
+                "Codigo": "156",
+                "lati": "04\u00b036'52,40500\"N",
+                "longi": "74\u00b005'38,05892\"W",
+                "Nombre": "UDAP",
+                "MDANMNombr": "Bogot\u00e1 D.C.",
+                "DeNombre": "Bogot\u00e1 D.C.",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74467336,
+                    4.48496627
+                ]
+            },
+            "properties": {
+                "Codigo": "157",
+                "lati": "04\u00b029'05,87859\"N",
+                "longi": "75\u00b044'40,82411\"W",
+                "Nombre": "UGCT",
+                "MDANMNombr": "Armenia",
+                "DeNombre": "Quindio",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67325149,
+                    5.07229143
+                ]
+            },
+            "properties": {
+                "Codigo": "158",
+                "lati": "05\u00b004'20,24916\"N",
+                "longi": "75\u00b040'23,70535\"W",
+                "Nombre": "UNCA",
+                "MDANMNombr": "Palestina",
+                "DeNombre": "Caldas",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.57711126,
+                    6.26398477
+                ]
+            },
+            "properties": {
+                "Codigo": "159",
+                "lati": "06\u00b015'50,34517\"N",
+                "longi": "75\u00b034'37,60054\"W",
+                "Nombre": "UNME",
+                "MDANMNombr": "Medell\u00edn",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.21020275,
+                    8.01230288
+                ]
+            },
+            "properties": {
+                "Codigo": "160",
+                "lati": "08\u00b000'44,29037\"N",
+                "longi": "76\u00b012'36,72991\"W",
+                "Nombre": "URR0",
+                "MDANMNombr": "Tierraalta",
+                "DeNombre": "C\u00f3rdoba",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.39133445,
+                    6.45071505
+                ]
+            },
+            "properties": {
+                "Codigo": "161",
+                "lati": "06\u00b027'02,57419\"N",
+                "longi": "72\u00b023'28,80403\"W",
+                "Nombre": "UWAS",
+                "MDANMNombr": "G\u00fcic\u00e1n",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.25196901,
+                    10.47396779
+                ]
+            },
+            "properties": {
+                "Codigo": "162",
+                "lati": "10\u00b028'26,28402\"N",
+                "longi": "73\u00b015'07,08842\"W",
+                "Nombre": "VALL",
+                "MDANMNombr": "Valledupar",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.73329955,
+                    7.06672191
+                ]
+            },
+            "properties": {
+                "Codigo": "163",
+                "lati": "07\u00b004'00,19889\"N",
+                "longi": "70\u00b043'59,87837\"W",
+                "Nombre": "VAUC",
+                "MDANMNombr": "Arauca",
+                "DeNombre": "Arauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96927875,
+                    9.04586978
+                ]
+            },
+            "properties": {
+                "Codigo": "164",
+                "lati": "09\u00b002'45,13120\"N",
+                "longi": "73\u00b058'09,40351\"W",
+                "Nombre": "VBAM",
+                "MDANMNombr": "El Banco",
+                "DeNombre": "Magdalena",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8058631,
+                    7.02801978
+                ]
+            },
+            "properties": {
+                "Codigo": "165",
+                "lati": "07\u00b001'40,87120\"N",
+                "longi": "73\u00b048'21,10716\"W",
+                "Nombre": "VBAR",
+                "MDANMNombr": "Barrancabermeja",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.85893524,
+                    5.53320833
+                ]
+            },
+            "properties": {
+                "Codigo": "166",
+                "lati": "05\u00b031'59,55002\"N",
+                "longi": "73\u00b051'32,16686\"W",
+                "Nombre": "VBUV",
+                "MDANMNombr": "Caldas",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.49484621,
+                    6.18253258
+                ]
+            },
+            "properties": {
+                "Codigo": "167",
+                "lati": "06\u00b010'57,11729\"N",
+                "longi": "67\u00b029'41,44635\"W",
+                "Nombre": "VCAR",
+                "MDANMNombr": "Puerto Carre\u00f1o",
+                "DeNombre": "Vichada",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4185653,
+                    5.98062663
+                ]
+            },
+            "properties": {
+                "Codigo": "168",
+                "lati": "05\u00b058'50,25589\"N",
+                "longi": "75\u00b025'06,83511\"W",
+                "Nombre": "VCRG",
+                "MDANMNombr": "La Uni\u00f3n",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.50546836,
+                    10.20864925
+                ]
+            },
+            "properties": {
+                "Codigo": "169",
+                "lati": "10\u00b012'31,13730\"N",
+                "longi": "75\u00b030'19,68610\"W",
+                "Nombre": "VCTG",
+                "MDANMNombr": "Cartagena",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.24782608,
+                    10.43580677
+                ]
+            },
+            "properties": {
+                "Codigo": "170",
+                "lati": "10\u00b026'08,90437\"N",
+                "longi": "73\u00b014'52,17389\"W",
+                "Nombre": "VDPR",
+                "MDANMNombr": "Valledupar",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76543725,
+                    4.46030167
+                ]
+            },
+            "properties": {
+                "Codigo": "171",
+                "lati": "04\u00b027'37,08599\"N",
+                "longi": "75\u00b045'55,57412\"W",
+                "Nombre": "VEDE",
+                "MDANMNombr": "La Tebaida",
+                "DeNombre": "Quindio",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.58399403,
+                    4.07466273
+                ]
+            },
+            "properties": {
+                "Codigo": "172",
+                "lati": "04\u00b004'28,78583\"N",
+                "longi": "73\u00b035'02,37850\"W",
+                "Nombre": "VIVI",
+                "MDANMNombr": "Villavicencio",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.84731898,
+                    9.28674272
+                ]
+            },
+            "properties": {
+                "Codigo": "173",
+                "lati": "09\u00b017'12,27380\"N",
+                "longi": "74\u00b050'50,34834\"W",
+                "Nombre": "VMAG",
+                "MDANMNombr": "Magangu\u00e9",
+                "DeNombre": "Bol\u00edvar",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.32423486,
+                    6.1760596
+                ]
+            },
+            "properties": {
+                "Codigo": "174",
+                "lati": "06\u00b010'33,81457\"N",
+                "longi": "75\u00b019'27,24549\"W",
+                "Nombre": "VMAR",
+                "MDANMNombr": "Marinilla",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1532955,
+                    1.78501411
+                ]
+            },
+            "properties": {
+                "Codigo": "175",
+                "lati": "01\u00b047'06,05081\"N",
+                "longi": "77\u00b009'11,86380\"W",
+                "Nombre": "VMER",
+                "MDANMNombr": "Mercaderes",
+                "DeNombre": "Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.09168234,
+                    6.88333419
+                ]
+            },
+            "properties": {
+                "Codigo": "176",
+                "lati": "06\u00b053'0,00308\"N",
+                "longi": "73\u00b005'30,05642\"W",
+                "Nombre": "VMES",
+                "MDANMNombr": "Los Santos",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.25530536,
+                    3.06224738
+                ]
+            },
+            "properties": {
+                "Codigo": "177",
+                "lati": "03\u00b003'44,09056\"N",
+                "longi": "75\u00b015'19,09930\"W",
+                "Nombre": "VNEI",
+                "MDANMNombr": "Neiva",
+                "DeNombre": "Huila",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.72180635,
+                    7.8184415
+                ]
+            },
+            "properties": {
+                "Codigo": "178",
+                "lati": "07\u00b049'06,38938\"N",
+                "longi": "76\u00b043'18,50287\"W",
+                "Nombre": "VORA",
+                "MDANMNombr": "Carepa",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.67248937,
+                    0.86303965
+                ]
+            },
+            "properties": {
+                "Codigo": "179",
+                "lati": "00\u00b051'46,94275\"N",
+                "longi": "77\u00b040'20,96173\"W",
+                "Nombre": "VORI",
+                "MDANMNombr": "Ipiales",
+                "DeNombre": "Nari\u00f1o",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.10669166,
+                    4.39668869
+                ]
+            },
+            "properties": {
+                "Codigo": "180",
+                "lati": "04\u00b023'48,07930\"N",
+                "longi": "75\u00b006'24,08998\"W",
+                "Nombre": "VPIJ",
+                "MDANMNombr": "Ibagu\u00e9",
+                "DeNombre": "Tolima",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.86084458,
+                    10.79377315
+                ]
+            },
+            "properties": {
+                "Codigo": "181",
+                "lati": "10\u00b047'37,58335\"N",
+                "longi": "74\u00b051'39,04049\"W",
+                "Nombre": "VPOL",
+                "MDANMNombr": "Polonuevo",
+                "DeNombre": "Atl\u00e1ntico",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.3822421,
+                    4.06772765
+                ]
+            },
+            "properties": {
+                "Codigo": "182",
+                "lati": "04\u00b004'03,81953\"N",
+                "longi": "73\u00b022'56,07154\"W",
+                "Nombre": "VPOM",
+                "MDANMNombr": "Villavicencio",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64170417,
+                    5.69231609
+                ]
+            },
+            "properties": {
+                "Codigo": "183",
+                "lati": "05\u00b041'32,33791\"N",
+                "longi": "76\u00b038'30,13503\"W",
+                "Nombre": "VQUI",
+                "MDANMNombr": "Quibd\u00f3",
+                "DeNombre": "Choc\u00f3",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.32332868,
+                    4.84704821
+                ]
+            },
+            "properties": {
+                "Codigo": "184",
+                "lati": "04\u00b050'49,37357\"N",
+                "longi": "74\u00b019'23,98325\"W",
+                "Nombre": "VROS",
+                "MDANMNombr": "El Rosal",
+                "DeNombre": "Cundinamarca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.63897082,
+                    2.5325127
+                ]
+            },
+            "properties": {
+                "Codigo": "185",
+                "lati": "02\u00b031'57,04571\"N",
+                "longi": "72\u00b038'20,29493\"W",
+                "Nombre": "VSJG",
+                "MDANMNombr": "San Jos\u00e9 del Guaviare",
+                "DeNombre": "Guaviare",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.83556008,
+                    4.78117881
+                ]
+            },
+            "properties": {
+                "Codigo": "186",
+                "lati": "04\u00b046'52,24371\"N",
+                "longi": "75\u00b050'08,01629\"W",
+                "Nombre": "VSJP",
+                "MDANMNombr": "Pereira",
+                "DeNombre": "Risaralda",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.27287945,
+                    4.6025774
+                ]
+            },
+            "properties": {
+                "Codigo": "187",
+                "lati": "04\u00b036'09,27864\"N",
+                "longi": "74\u00b016'22,36601\"W",
+                "Nombre": "VSOA",
+                "MDANMNombr": "Soacha",
+                "DeNombre": "Cundinamarca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.75347504,
+                    6.45240179
+                ]
+            },
+            "properties": {
+                "Codigo": "188",
+                "lati": "06\u00b027'08,64646\"N",
+                "longi": "71\u00b045'12,51015\"W",
+                "Nombre": "VTAM",
+                "MDANMNombr": "Tame",
+                "DeNombre": "Arauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.22362414,
+                    4.091623
+                ]
+            },
+            "properties": {
+                "Codigo": "189",
+                "lati": "04\u00b005'29,84282\"N",
+                "longi": "76\u00b013'25,04690\"W",
+                "Nombre": "VTUL",
+                "MDANMNombr": "Tulu\u00e1",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.42707331,
+                    5.27539234
+                ]
+            },
+            "properties": {
+                "Codigo": "190",
+                "lati": "05\u00b016'31,41242\"N",
+                "longi": "72\u00b025'37,46392\"W",
+                "Nombre": "VYPL",
+                "MDANMNombr": "Yopal",
+                "DeNombre": "Casanare",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98697315,
+                    5.01902249
+                ]
+            },
+            "properties": {
+                "Codigo": "191",
+                "lati": "05\u00b001'08,48097\"N",
+                "longi": "73\u00b059'13,10335\"W",
+                "Nombre": "VZPQ",
+                "MDANMNombr": "Zipaquir\u00e1",
+                "DeNombre": "Cundinamarca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Servicio Geol\u00f3gico Colombiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.38899484,
+                    5.32176259
+                ]
+            },
+            "properties": {
+                "Codigo": "192",
+                "lati": "05\u00b019'18,34533\"N",
+                "longi": "72\u00b023'20,38146\"W",
+                "Nombre": "YOPA",
+                "MDANMNombr": "Yopal",
+                "DeNombre": "Casanare",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.06756712,
+                    4.39657646
+                ]
+            },
+            "properties": {
+                "Codigo": "193",
+                "lati": "04\u00b023'47,67528\"N",
+                "longi": "76\u00b004'03,24164\"W",
+                "Nombre": "ZARZ",
+                "MDANMNombr": "Zarzal",
+                "DeNombre": "Valle del Cauca",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.83506859,
+                    9.73532257
+                ]
+            },
+            "properties": {
+                "Codigo": "194",
+                "lati": "09\u00b044'07.16125\"N",
+                "longi": "74\u00b050'06.24690\"W",
+                "Nombre": "ZBNO",
+                "MDANMNombr": "Zambrano",
+                "DeNombre": "Bolivar",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.72233083,
+                    4.63796581
+                ]
+            },
+            "properties": {
+                "Codigo": "195",
+                "lati": "04\u00b038'16,67690\"N",
+                "longi": "73\u00b043'20,39099\"W",
+                "Nombre": "ABCH",
+                "MDANMNombr": "F\u00f3meque",
+                "DeNombre": "Cundinamarca",
+                "RedGeoAc_RedNacional_MRTMaterial": "EAAB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1901749,
+                    4.5911924
+                ]
+            },
+            "properties": {
+                "Codigo": "196",
+                "lati": "04\u00b035'28.29264\"N",
+                "longi": "74\u00b011'24.62965\"W",
+                "Nombre": "SBOG",
+                "MDANMNombr": "Soacha",
+                "DeNombre": "Cundinamarca",
+                "RedGeoAc_RedNacional_MRTMaterial": "SENA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.58532256,
+                    2.22056827
+                ]
+            },
+            "properties": {
+                "Codigo": "197",
+                "lati": "02\u00b013'14.04578\"N",
+                "longi": "75\u00b035'07.16122\"W",
+                "Nombre": "GRZN",
+                "MDANMNombr": "Garz\u00f3n",
+                "DeNombre": "Huila",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66777576,
+                    4.49450611
+                ]
+            },
+            "properties": {
+                "Codigo": "198",
+                "lati": "04\u00b029'40.22197\"N",
+                "longi": "70\u00b040'03.99273\"W",
+                "Nombre": "3MAT",
+                "MDANMNombr": "Cumaribo",
+                "DeNombre": "Vichada",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.04837251,
+                    3.37805343
+                ]
+            },
+            "properties": {
+                "Codigo": "199",
+                "lati": "03\u00b022'40.99235\"N",
+                "longi": "74\u00b002'54.14103\"W",
+                "Nombre": "MSET",
+                "MDANMNombr": "Mesetas",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8815719,
+                    2.41090355
+                ]
+            },
+            "properties": {
+                "Codigo": "200",
+                "lati": "02\u00b024'39.25278\"N",
+                "longi": "75\u00b052'53.65883\"W",
+                "Nombre": "PLTA",
+                "MDANMNombr": "La Plata",
+                "DeNombre": "Huila",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.73788508,
+                    6.70326367
+                ]
+            },
+            "properties": {
+                "Codigo": "201",
+                "lati": "06\u00b042'11.74920\"N",
+                "longi": "72\u00b044'16.38628\"W",
+                "Nombre": "MLGS",
+                "MDANMNombr": "M\u00e1laga",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.98359606,
+                    1.34405327
+                ]
+            },
+            "properties": {
+                "Codigo": "202",
+                "lati": "01\u00b020'38.59178\"N",
+                "longi": "75\u00b059'00.94582\"W",
+                "Nombre": "SJFR",
+                "MDANMNombr": "San Jos\u00e9 del Fragua",
+                "DeNombre": "Caquet\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.37478772,
+                    3.26916281
+                ]
+            },
+            "properties": {
+                "Codigo": "203",
+                "lati": "03\u00b016'08.98611\"N",
+                "longi": "73\u00b022'29.23581\"W",
+                "Nombre": "PULL",
+                "MDANMNombr": "Puerto Lleras",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.64267702,
+                    2.57272027
+                ]
+            },
+            "properties": {
+                "Codigo": "204",
+                "lati": "02\u00b034'21.79298\"N",
+                "longi": "72\u00b038'33.63724\"W",
+                "Nombre": "SJGU",
+                "MDANMNombr": "San Jos\u00e9 del Guaviare",
+                "DeNombre": "Guaviare",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.27734397,
+                    8.85148671
+                ]
+            },
+            "properties": {
+                "Codigo": "205",
+                "lati": "08\u00b051'05.35216\"N",
+                "longi": "75\u00b016'38.43829\"W",
+                "Nombre": "UNIO",
+                "MDANMNombr": "La Uni\u00f3n",
+                "DeNombre": "Sucre",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.04311,
+                    10.30547
+                ]
+            },
+            "properties": {
+                "Codigo": "206",
+                "lati": "10\u00b018'19.68636\"N",
+                "longi": "74\u00b002'35.21328\"W",
+                "Nombre": "AGBO",
+                "MDANMNombr": "Algarrobo",
+                "DeNombre": "Magdalena",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.50731,
+                    1.29035
+                ]
+            },
+            "properties": {
+                "Codigo": "207",
+                "lati": "01\u00b017'25.25558\"N",
+                "longi": "75\u00b030'26.31564\"W",
+                "Nombre": "MILN",
+                "MDANMNombr": "Milan",
+                "DeNombre": "Caqueta",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.35054668,
+                    4.51000268
+                ]
+            },
+            "properties": {
+                "Codigo": "208",
+                "lati": "04\u00b030'36.00965\"N",
+                "longi": "73\u00b021'01.96805\"W",
+                "Nombre": "MEDN",
+                "MDANMNombr": "Medina",
+                "DeNombre": "Cundinamarca",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.61817502,
+                    0.88299224
+                ]
+            },
+            "properties": {
+                "Codigo": "209",
+                "lati": "00\u00b052'58.77207\"N",
+                "longi": "75\u00b037'05.43006\"W",
+                "Nombre": "SLTA",
+                "MDANMNombr": "Solita",
+                "DeNombre": "Caquet\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.70951045,
+                    9.73656538
+                ]
+            },
+            "properties": {
+                "Codigo": "210",
+                "lati": "09\u00b044'11.63538\"N",
+                "longi": "73\u00b042'34.23764\"W",
+                "Nombre": "P4VI",
+                "MDANMNombr": "El Paso",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97256202,
+                    9.50778407
+                ]
+            },
+            "properties": {
+                "Codigo": "211",
+                "lati": "09\u00b030'28.02265\"N",
+                "longi": "73\u00b058'21.22329\"W",
+                "Nombre": "ASTR",
+                "MDANMNombr": "Astrea",
+                "DeNombre": "Cesar",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7572586,
+                    3.131157
+                ]
+            },
+            "properties": {
+                "Codigo": "212",
+                "lati": "03\u00b007'52.16519\"N",
+                "longi": "73\u00b045'26.13095\"W",
+                "Nombre": "VHER",
+                "MDANMNombr": "Vista Hermosa\r\n",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.19215759,
+                    2.94896723
+                ]
+            },
+            "properties": {
+                "Codigo": "213",
+                "lati": "02\u00b056'56.28206\"N\r\n",
+                "longi": "73\u00b011'31.76730\"W\r\n",
+                "Nombre": "PRIC",
+                "MDANMNombr": "Puerto Rico",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6464531,
+                    1.95993312
+                ]
+            },
+            "properties": {
+                "Codigo": "214",
+                "lati": "01\u00b057'35,75925\"N",
+                "longi": "72\u00b038'47,23117\"W",
+                "Nombre": "CLMA",
+                "MDANMNombr": "Calamar",
+                "DeNombre": "Guaviare",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.12385086,
+                    2.89474486
+                ]
+            },
+            "properties": {
+                "Codigo": "215",
+                "lati": "02\u00b053'41.08150\"N",
+                "longi": "72\u00b007'25.86310\"W\r\n",
+                "Nombre": "MPAN",
+                "MDANMNombr": "Mapirip\u00e1n",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.34787312,
+                    3.23903737
+                ]
+            },
+            "properties": {
+                "Codigo": "216",
+                "lati": "03\u00b014'20.53455\"N\r\n",
+                "longi": "74\u00b020'52.34323\"W\r\n",
+                "Nombre": "UIBE",
+                "MDANMNombr": "La Uribe\r\n",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.17077367,
+                    1.90301709
+                ]
+            },
+            "properties": {
+                "Codigo": "217",
+                "lati": "01\u00b054'10.86153\"N\r\n",
+                "longi": "75\u00b010'14.78520\"W\r\n",
+                "Nombre": "PTRI\r\n",
+                "MDANMNombr": "Puerto Rico\r\n",
+                "DeNombre": "Caquet\u00e1\r\n",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.78827999,
+                    2.17411928
+                ]
+            },
+            "properties": {
+                "Codigo": "218",
+                "lati": "02\u00b010'26.82943\"N\r\n",
+                "longi": "74\u00b047'17.80799\"W\r\n",
+                "Nombre": "SVDC\r\n",
+                "MDANMNombr": "San Vicente del Cagu\u00e1n\r\n",
+                "DeNombre": "Caquet\u00e1\r\n",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.15792304,
+                    8.2611361
+                ]
+            },
+            "properties": {
+                "Codigo": "219",
+                "lati": "08\u00b015'40.08993\"N\r\n",
+                "longi": "76\u00b009'28.52292\"W\r\n",
+                "Nombre": "VLEN",
+                "MDANMNombr": "Valencia",
+                "DeNombre": "C\u00f3rdoba",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67743716,
+                    7.88868881
+                ]
+            },
+            "properties": {
+                "Codigo": "220",
+                "lati": "07\u00b053'19.27974\"N\r\n",
+                "longi": "75\u00b040'38.77379\"W\r\n",
+                "Nombre": "PLCO\r\n",
+                "MDANMNombr": "Puerto Libertador\r\n",
+                "DeNombre": "C\u00f3rdoba\r\n",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3644398,
+                    2.6121166
+                ]
+            },
+            "properties": {
+                "Codigo": "221",
+                "lati": "02\u00b036'43.72115\"N\r\n",
+                "longi": "72\u00b021'51.89975\"W\r\n",
+                "Nombre": "CALE",
+                "MDANMNombr": "Campo Alegre",
+                "DeNombre": "Huila",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.844972,
+                    1.342133
+                ]
+            },
+            "properties": {
+                "Codigo": "222",
+                "lati": "01\u00b020?31.67983?N",
+                "longi": "74\u00b050?41,89757?W",
+                "Nombre": "CCHA",
+                "MDANMNombr": "Cartagena Del Chair\u00e1",
+                "DeNombre": "Caquet\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.307923,
+                    1.020978
+                ]
+            },
+            "properties": {
+                "Codigo": "223",
+                "lati": "01\u00b001?15,56900?N ",
+                "longi": "71\u00b018?28,536 W",
+                "Nombre": "CRRU",
+                "MDANMNombr": "Carur\u00fa",
+                "DeNombre": "Vaup\u00e9s",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.658,
+                    -0.0572219
+                ]
+            },
+            "properties": {
+                "Codigo": "224",
+                "lati": "0\u00b003?26,000?S",
+                "longi": "74\u00b039?31,000?W",
+                "Nombre": "LEGU",
+                "MDANMNombr": "Legu\u00edzamo",
+                "DeNombre": "Putumayo",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.789092,
+                    2.168913
+                ]
+            },
+            "properties": {
+                "Codigo": "225",
+                "lati": "02\u00b010?08,04702?N",
+                "longi": "73\u00b047?20,60208?W",
+                "Nombre": "LMAC",
+                "MDANMNombr": "La Macarena",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.948333,
+                    1.344722
+                ]
+            },
+            "properties": {
+                "Codigo": "226",
+                "lati": "01\u00b020?41,000?N ",
+                "longi": "71\u00b056?54,000?W",
+                "Nombre": "MFLO",
+                "MDANMNombr": "Miraflores",
+                "DeNombre": "Guaviare\r\nGuaviare",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.776006,
+                    8.083635
+                ]
+            },
+            "properties": {
+                "Codigo": "227",
+                "lati": "08\u00b005?02,43?N ",
+                "longi": "74\u00b046?33,83?W",
+                "Nombre": "NECI",
+                "MDANMNombr": "Nechi",
+                "DeNombre": "Antioquia",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.862222,
+                    0.141944
+                ]
+            },
+            "properties": {
+                "Codigo": "228",
+                "lati": "0\u00b008?30,94975?N",
+                "longi": "75\u00b051?44,20484?W",
+                "Nombre": "POSP",
+                "MDANMNombr": "Legu\u00edzamo",
+                "DeNombre": "Putumayo",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.696931,
+                    3.536503
+                ]
+            },
+            "properties": {
+                "Codigo": "229",
+                "lati": "03\u00b032'11,411\"N",
+                "longi": "73\u00b041'48,952\"W",
+                "Nombre": "GNDA",
+                "MDANMNombr": "Granada",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.806443,
+                    4.45165
+                ]
+            },
+            "properties": {
+                "Codigo": "230",
+                "lati": "04\u00b027'5,94\"N",
+                "longi": "69\u00b048'23,195\"W",
+                "Nombre": "CUMA",
+                "MDANMNombr": "Cumaribo",
+                "DeNombre": "Vichada",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.287376,
+                    4.826194
+                ]
+            },
+            "properties": {
+                "Codigo": "231",
+                "lati": "04\u00b049'34,298\"N",
+                "longi": "72\u00b017'14,554\"W",
+                "Nombre": "MANI",
+                "MDANMNombr": "Man\u00ed",
+                "DeNombre": "Casanare",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.646586,
+                    5.957135
+                ]
+            },
+            "properties": {
+                "Codigo": "232",
+                "lati": "05\u00b057'25,686\"N",
+                "longi": "73\u00b038'47,71\"W",
+                "Nombre": "VELZ",
+                "MDANMNombr": "V\u00e9lez",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.888372,
+                    10.883001
+                ]
+            },
+            "properties": {
+                "Codigo": "233",
+                "lati": "10\u00b0 52' 58.804\" N",
+                "longi": "72\u00b0 53' 18.139\" W",
+                "Nombre": "DIST",
+                "MDANMNombr": "Distracci\u00f3n",
+                "DeNombre": "La Guajira",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.100804,
+                    6.283155
+                ]
+            },
+            "properties": {
+                "Codigo": "234",
+                "lati": "6\u00b0 16' 59.358\" N",
+                "longi": "71\u00b0 6' 2.894\" W",
+                "Nombre": "PURO",
+                "MDANMNombr": "Arauca",
+                "DeNombre": "Puerto Rond\u00f3n",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.164366,
+                    8.29497
+                ]
+            },
+            "properties": {
+                "Codigo": "235",
+                "lati": "8\u00b0 17' 41.892\" N",
+                "longi": "75\u00b0 9' 51.718\" W",
+                "Nombre": "AYAP",
+                "MDANMNombr": "Ayapel",
+                "DeNombre": "C\u00f3rdoba",
+                "RedGeoAc_RedNacional_MRTMaterial": "IGAC y SGC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.080255,
+                    4.640147
+                ]
+            },
+            "properties": {
+                "Codigo": "236",
+                "lati": "04\u00b038'24,52920\"N",
+                "longi": "74\u00b004'48,91800\"W",
+                "Nombre": "IGAC",
+                "MDANMNombr": "Bogot\u00e1",
+                "DeNombre": "Bogot\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.886503,
+                    5.879337
+                ]
+            },
+            "properties": {
+                "Codigo": "237",
+                "lati": "05\u00b052'45,61320\"N",
+                "longi": "71\u00b053'11,41080\"W",
+                "Nombre": "ARIP",
+                "MDANMNombr": "Paz de Ariporo",
+                "DeNombre": "Casanare",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.156451,
+                    6.287477
+                ]
+            },
+            "properties": {
+                "Codigo": "238",
+                "lati": "06\u00b017'14,91720\"N",
+                "longi": "73\u00b009'23,22360\"W",
+                "Nombre": "CHRL",
+                "MDANMNombr": "Charal\u00e1",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.648395,
+                    5.250273
+                ]
+            },
+            "properties": {
+                "Codigo": "239",
+                "lati": "05\u00b015'0,98280\"N",
+                "longi": "76\u00b038'54,22200\"W",
+                "Nombre": "ISTM",
+                "MDANMNombr": "Uni\u00f3n Panamericana",
+                "DeNombre": "Choc\u00f3",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63016949,
+                    5.68549481
+                ]
+            },
+            "properties": {
+                "Codigo": "240",
+                "lati": "05\u00b041'7,78132\"N",
+                "longi": "76\u00b037'48,61017\"W",
+                "Nombre": "QBDO",
+                "MDANMNombr": "Quibd\u00f3",
+                "DeNombre": "Choc\u00f3",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.784041,
+                    5.995764
+                ]
+            },
+            "properties": {
+                "Codigo": "241",
+                "lati": "05\u00b059'44,75040\"N",
+                "longi": "76\u00b047'2,54760\"W",
+                "Nombre": "BETE",
+                "MDANMNombr": "Medio Atrato",
+                "DeNombre": "Choc\u00f3",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.364536,
+                    4.258214
+                ]
+            },
+            "properties": {
+                "Codigo": "242",
+                "lati": "04\u00b059'44,75040\"N",
+                "longi": "76\u00b047'2,54760\"W",
+                "Nombre": "LSJU",
+                "MDANMNombr": "Litoral de San Juan",
+                "DeNombre": "Choc\u00f3",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.272566,
+                    11.384555
+                ]
+            },
+            "properties": {
+                "Codigo": "243",
+                "lati": "11\u00b023'4,398\"N",
+                "longi": "72\u00b016'21,238\"W",
+                "Nombre": "MAIC",
+                "MDANMNombr": "Maicao",
+                "DeNombre": "La Guajira",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.516156,
+                    10.114369
+                ]
+            },
+            "properties": {
+                "Codigo": "244",
+                "lati": "10\u00b006'51,728\"N",
+                "longi": "74\u00b030'58,162\"W",
+                "Nombre": "CHVL",
+                "MDANMNombr": "Chivolo",
+                "DeNombre": "Magdalena",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.539447,
+                    8.355244
+                ]
+            },
+            "properties": {
+                "Codigo": "245",
+                "lati": "08\u00b021'18,878\"N",
+                "longi": "75\u00b032'22,009\"W",
+                "Nombre": "PLRI",
+                "MDANMNombr": "Planeta Rica",
+                "DeNombre": "C\u00f3rdoba",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.622686,
+                    10.465125
+                ]
+            },
+            "properties": {
+                "Codigo": "246",
+                "lati": "10\u00b027'54,450\"N",
+                "longi": "74\u00b037'21,670\"W",
+                "Nombre": "PIVI",
+                "MDANMNombr": "Pivijay",
+                "DeNombre": "Magdalena",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.747576,
+                    -2.142899
+                ]
+            },
+            "properties": {
+                "Codigo": "247",
+                "lati": "02\u00b008'34,436\"S",
+                "longi": "71\u00b044'51,274\"W",
+                "Nombre": "ARIC",
+                "MDANMNombr": "Puerto Arica",
+                "DeNombre": "Amazonas",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.564575,
+                    6.177202
+                ]
+            },
+            "properties": {
+                "Codigo": "248",
+                "lati": "06\u00b010'37,927\"N",
+                "longi": "74\u00b033'52,470\"W",
+                "Nombre": "PBYA",
+                "MDANMNombr": "Puerto Boyac\u00e1",
+                "DeNombre": "Boyac\u00e1",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.03636778,
+                    8.9352025
+                ]
+            },
+            "properties": {
+                "Codigo": "249",
+                "lati": "08\u00b056'06,731\"N",
+                "longi": "75\u00b002'10,925\"W",
+                "Nombre": "ABAD",
+                "MDANMNombr": "San Benito de Abad",
+                "DeNombre": "Sucre",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.48857139,
+                    7.39572722
+                ]
+            },
+            "properties": {
+                "Codigo": "250",
+                "lati": "07\u00b023'44,617\"N",
+                "longi": "73\u00b029'18,856\"W",
+                "Nombre": "STDO",
+                "MDANMNombr": "Sabana de Torres",
+                "DeNombre": "Santander",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.94704167,
+                    3.86076667
+                ]
+            },
+            "properties": {
+                "Codigo": "251",
+                "lati": "03\u00b051'38,761\"N",
+                "longi": "74\u00b056'49,351\"W",
+                "Nombre": "PUFI",
+                "MDANMNombr": "Purificaci\u00f3n",
+                "DeNombre": "Tolima",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.792722,
+                    4.284528
+                ]
+            },
+            "properties": {
+                "Codigo": "252",
+                "lati": "04\u00b017'04,301\"N",
+                "longi": "72\u00b047'33,799\"W",
+                "Nombre": "CBYA",
+                "MDANMNombr": "Cabuyaro",
+                "DeNombre": "Meta",
+                "RedGeoAc_RedNacional_MRTMaterial": "Instituto Geogr\u00e1fico Agust\u00edn Codazzi "
+            }
+        }
+    ]
+}
