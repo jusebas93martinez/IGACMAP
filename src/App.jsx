@@ -21,7 +21,7 @@ function App() {
   const [originPoint, setOriginPoint] = useState(null);
 
   useEffect(() => {
-    fetch("/puntos.geojson")
+    fetch(`${import.meta.env.BASE_URL}puntos.geojson`)
       .then((response) => response.json())
       .then((data) => setGeojson(data))
       .catch((error) => console.error("Error cargando el GeoJSON:", error));
@@ -187,6 +187,7 @@ function App() {
   return (
     <div id="map-container">
       <Map
+        id="main-map"
         mapLib={maplibregl}
         initialViewState={{
           longitude: -74.0721,
@@ -195,13 +196,7 @@ function App() {
         }}
         style={{ width: "100%", height: "100%" }}
         mapStyle={`https://api.maptiler.com/maps/backdrop/style.json?key=Wnai4G4s1koZsp2dtjyh`}
-        interactiveLayerIds={["puntos"]}
-        onMouseEnter={() => {
-          document.body.style.cursor = "default"; // Cambia el cursor a una flecha
-        }}
-        onMouseLeave={() => {
-          document.body.style.cursor = ""; // Restaura el cursor a su estado predeterminado
-        }}
+        interactiveLayerIds={geojson ? ["puntos"] : []} // Evita errores si geojson no ha cargado
         onClick={(event) => {
           if (!hoveredFeature) {
             const { lng, lat } = event.lngLat;
