@@ -6,7 +6,7 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
-  base: "/IGACMAP/", // Agrega esta línea con el nombre de tu repositorio
+  base: process.env.NODE_ENV === "production" ? "/IGACMAP/" : "/", // Solo cambia en producción
   plugins: [react()],
   resolve: {
     alias: {

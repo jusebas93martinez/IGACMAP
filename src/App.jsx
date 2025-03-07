@@ -196,6 +196,12 @@ function App() {
         style={{ width: "100%", height: "100%" }}
         mapStyle={`https://api.maptiler.com/maps/backdrop/style.json?key=Wnai4G4s1koZsp2dtjyh`}
         interactiveLayerIds={["puntos"]}
+        onMouseEnter={() => {
+          document.body.style.cursor = "default"; // Cambia el cursor a una flecha
+        }}
+        onMouseLeave={() => {
+          document.body.style.cursor = ""; // Restaura el cursor a su estado predeterminado
+        }}
         onClick={(event) => {
           if (!hoveredFeature) {
             const { lng, lat } = event.lngLat;
@@ -316,6 +322,7 @@ function App() {
         </div>
         <button onClick={handleCoordInputSubmit}>Buscar</button>
       </div>
+      <div className="footer-label">By Sebastian Martinez</div>
 
       <button className="gps-button" onClick={getUserLocation}>
         Usar GPS

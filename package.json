@@ -1,7 +1,7 @@
 {
   "name": "mapa-cors",
-  "private": true,
   "homepage": "https://jusebas93martinez.github.io/IGACMAP",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
