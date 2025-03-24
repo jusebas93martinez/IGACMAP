@@ -21,18 +21,18 @@ body {
   top: 220px;
   right: 20px;
   background: rgba(255, 255, 255, 0.9);
-  padding: 10px 15px;
+  padding: 10px 10px;
   border-radius: 8px;
-  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
   font-size: 14px;
   color: #333;
   z-index: 10;
 }
 
 .distance-box h3 {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 
 .distance-box ul {
@@ -42,7 +42,7 @@ body {
 }
 
 .distance-box li {
-  padding: 4px 0;
+  padding: 2px 0;
   border-bottom: 1px solid #ddd;
 }
 
@@ -65,7 +65,7 @@ body {
 
 .coord-input-box input {
   width: 50px;
-  margin: 4px 2px;
+  margin: 2px 1px;
   padding: 6px;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -86,10 +86,10 @@ body {
   background: #005bbb;
 }
 
-/* Botón flotante de GPS */
+/* Botón flotante de GPS y footer-label */
 .gps-button {
-  position: absolute;
-  bottom: 10px;
+  position: fixed;
+  bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
   background: #007aff;
@@ -118,19 +118,19 @@ body {
 /* Estilo para el popup */
 .popup-content {
   background: white;
-  padding: 10px;
-  border-radius: 8px;
-  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.3);
 }
 
 .popup-title {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: bold;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 
 .popup-item {
-  padding: 4px 0;
+  padding: 1px 0;
   border-bottom: 1px solid #ddd;
 }
 
@@ -138,28 +138,73 @@ body {
   border-bottom: none;
 }
 
-@media (max-width: 600px) {
-  .distance-box,
+.footer-label {
+  position: fixed; /* Cambiado a fixed para mantenerlo en la parte inferior */
+  bottom: 10px; /* Ajusta la distancia desde la parte inferior */
+  right: 10px; /* Lo coloca en la esquina inferior derecha */
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 8px 16px; /* Tamaño más pequeño */
+  border-radius: 5px;
+  z-index: 1000; /* Asegura que esté por encima de otros elementos */
+  font-size: 12px; /* Tamaño de fuente más pequeño */
+  white-space: nowrap; /* Evita que el texto se divida en varias líneas */
+}
+
+/* Media queries para móviles */
+@media (max-width: 768px) {
+  /* Caja de distancias: Mover abajo y centrar */
+  .distance-box {
+    top: auto;
+    bottom: 100px; /* Ajusta según sea necesario */
+    left: 15px;
+    right: 15px;
+    font-size: 11px;
+  }
+
+  /* Caja de coordenadas: Mover arriba y centrar */
   .coord-input-box {
-    transform: scale(0.8); /* Reduce el tamaño al 80% */
-    transform-origin: top right; /* Mantiene la posición en la esquina superior derecha */
+    top: 10px;
+    left: 15px;
+    right: 15px;
+    font-size: 11px;
+  }
+
+  .coord-input-box input {
+    width: 40px;
+    font-size: 10px;
+    padding: 1px;
+  }
+
+  .coord-input-box button {
+    font-size: 12px;
+    padding: 4px 10px;
   }
 
   .gps-button {
-    transform: scale(0.8);
-    transform-origin: bottom center;
+    font-size: 12px;
+    padding: 8px 25px;
+    bottom: 5px; /* Ajusta la posición en móviles */
   }
-}
 
-.footer-label {
-  position: fixed;
-  bottom: 5px;
-  left: 8%;
-  transform: translateX(-50%);
-  background-color: rgba(0, 0, 0, 0.7);
-  color: white;
-  padding: 10px 20px;
-  border-radius: 5px;
-  z-index: 1000; /* Asegura que esté por encima de otros elementos */
-  font-size: 14px;
+  .footer-label {
+    bottom: 5px; /* Ajusta la posición en móviles */
+    right: 5px; /* Ajusta la posición en móviles */
+    padding: 3px 10px; /* Tamaño más pequeño en móviles */
+    font-size: 8px; /* Tamaño de fuente más pequeño en móviles */
+  }
+
+  /* Estilo para el popup en móviles */
+  .popup-content {
+    width: 200px; /* Ancho fijo para el popup */
+    font-size: 12px; /* Tamaño de fuente más pequeño */
+  }
+
+  .popup-title {
+    font-size: 14px; /* Tamaño de fuente más pequeño para el título */
+  }
+
+  .popup-item {
+    padding: 1px 0; /* Reducir el espaciado interno */
+  }
 }

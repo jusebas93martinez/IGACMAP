@@ -19,7 +19,9 @@ function App() {
     lngSec: "",
   });
   const [originPoint, setOriginPoint] = useState(null);
+  const [cachedLocation, setCachedLocation] = useState(null); // Cache de ubicación
 
+  // Cargar el GeoJSON al iniciar
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}puntos.geojson`)
       .then((response) => response.json())
@@ -27,23 +29,30 @@ function App() {
       .catch((error) => console.error("Error cargando el GeoJSON:", error));
   }, []);
 
+  // Capa de puntos
   const pointLayer = {
     id: "puntos",
     type: "circle",
     paint: {
-      "circle-radius": 3, // Reducido de 8 a 6
+      "circle-radius": [
+        "case",
+        ["in", ["get", "id"], ["literal", nearestPoints.map((p) => p.id)]],
+        8, // Tamaño ampliado para los puntos seleccionados
+        6, // Tamaño normal para los puntos no seleccionados
+      ],
       "circle-color": [
         "case",
         ["in", ["get", "id"], ["literal", nearestPoints.map((p) => p.id)]],
-        "#00FF00", // Cambiado a verde
-        "#FF00FF", // Cambiado a magenta
+        "#00FF00", // Color para los puntos seleccionados
+        "#FF00FF", // Color para los puntos no seleccionados
       ],
-      "circle-stroke-width": 2, // Aumentado para que el borde sea más visible
-      "circle-stroke-color": "#0000FF", // Cambiado a azul
-      "circle-stroke-opacity": 1, // Opacidad completa para el borde
+      "circle-stroke-width": 2,
+      "circle-stroke-color": "#0000FF",
+      "circle-stroke-opacity": 1,
     },
   };
 
+  // Capa de texto
   const textLayer = {
     id: "labels",
     type: "symbol",
@@ -60,29 +69,33 @@ function App() {
     },
   };
 
+  // Capa de líneas
   const lineLayer = {
     id: "lines",
     type: "line",
     paint: {
-      "line-color": "#007AFF", // Color de la línea principal
-      "line-width": 2, // Ancho de la línea principal
+      "line-color": "#007AFF",
+      "line-width": 2,
     },
   };
 
+  // Capa de borde de líneas
   const lineBorderLayer = {
     id: "lines-border",
     type: "line",
     paint: {
-      "line-color": "#000000", // Color del borde
-      "line-width": 4, // Ancho del borde (más ancho que la línea principal)
-      "line-opacity": 1, // Opacidad del borde
+      "line-color": "#000000",
+      "line-width": 4,
+      "line-opacity": 1,
     },
   };
 
+  // Calcular el tiempo de seguimiento
   const calculateTrackingTime = (distance) => {
     return 15 + 5 * distance;
   };
 
+  // Formatear el tiempo
   const formatTime = (minutes) => {
     if (minutes >= 60) {
       const hours = Math.floor(minutes / 60);
@@ -94,6 +107,7 @@ function App() {
     return `${minutes} min`;
   };
 
+  // Encontrar los puntos más cercanos
   const findNearestPoints = (lng, lat) => {
     if (!geojson) return;
 
@@ -140,47 +154,123 @@ function App() {
     setOriginPoint({ lng, lat });
   };
 
-  const handleHover = useCallback((event) => {
-    const feature = event.features?.[0];
-    if (feature) {
-      setHoveredFeature({
-        properties: feature.properties,
-        coordinates: feature.geometry.coordinates,
+  // Manejar el clic en el mapa
+  const handleMapClick = useCallback(
+    (event) => {
+      const map = event.target;
+      const features = map.queryRenderedFeatures(event.point, {
+        layers: ["puntos"],
       });
+
+      if (features.length > 0) {
+        // Clic en un punto
+        const feature = features[0];
+        setHoveredFeature({
+          properties: feature.properties,
+          coordinates: feature.geometry.coordinates,
+        });
+      } else {
+        // Clic en el mapa
+        const { lng, lat } = event.lngLat;
+        findNearestPoints(lng, lat);
+        setHoveredFeature(null); // Ocultar el popup si se hace clic en el mapa
+      }
+    },
+    [geojson]
+  );
+
+  // Manejar el movimiento del mouse para cambiar el cursor
+  const handleMouseMove = useCallback((event) => {
+    const map = event.target;
+    const features = map.queryRenderedFeatures(event.point, {
+      layers: ["puntos"],
+    });
+
+    if (features.length > 0) {
+      map.getCanvas().style.cursor = "pointer";
     } else {
-      setHoveredFeature(null);
+      map.getCanvas().style.cursor = "default";
     }
   }, []);
 
+  // Manejar cambios en los inputs de coordenadas
   const handleCoordInputChange = (e) => {
     const { name, value } = e.target;
-    setCoordInput((prev) => ({ ...prev, [name]: value }));
+    let newValue = value;
+
+    // Validaciones para cada campo
+    if (name.includes("Deg")) {
+      newValue = value.slice(0, 3); // Máximo 3 dígitos
+      if (newValue > 360) newValue = 360;
+    } else if (name.includes("Min")) {
+      newValue = value.slice(0, 2); // Máximo 2 dígitos
+      if (newValue > 60) newValue = 60;
+    } else if (name.includes("Sec")) {
+      const regex = /^\d{0,2}(\.\d{0,5})?$/; // Máximo 2 dígitos enteros y 5 decimales
+      if (!regex.test(value)) {
+        newValue = coordInput[name]; // Mantener el valor anterior si no cumple con la expresión regular
+      } else if (parseFloat(value) > 60) {
+        newValue = "60.00000";
+      }
+    }
+
+    setCoordInput((prev) => ({ ...prev, [name]: newValue }));
   };
 
+  // Manejar el envío de coordenadas
   const handleCoordInputSubmit = () => {
     const { latDeg, latMin, latSec, lngDeg, lngMin, lngSec } = coordInput;
+
+    if (!latDeg || !latMin || !latSec || !lngDeg || !lngMin || !lngSec) {
+      alert("Por favor, completa todos los campos.");
+      return;
+    }
+
     const lat = convertDMStoDecimal(latDeg, latMin, latSec);
     const lng = -convertDMStoDecimal(lngDeg, lngMin, lngSec); // Multiplicar por -1
     findNearestPoints(lng, lat);
   };
 
+  // Convertir grados, minutos y segundos a decimal
   const convertDMStoDecimal = (deg, min, sec) => {
     return parseFloat(deg) + parseFloat(min) / 60 + parseFloat(sec) / 3600;
   };
 
+  // Obtener la ubicación del usuario con cache
   const getUserLocation = () => {
+    const now = Date.now();
+    const cacheExpirationTime = 5 * 60 * 1000; // 5 minutos en milisegundos
+
+    // Verificar si la ubicación en caché es válida
+    if (
+      cachedLocation &&
+      now - cachedLocation.timestamp < cacheExpirationTime
+    ) {
+      const { latitude, longitude } = cachedLocation;
+      findNearestPoints(longitude, latitude);
+      return;
+    }
+
+    // Si no hay caché válida, obtener una nueva ubicación
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
         (position) => {
           const { latitude, longitude } = position.coords;
+          setCachedLocation({ latitude, longitude, timestamp: now }); // Guardar en caché
           findNearestPoints(longitude, latitude);
         },
         (error) => {
           console.error("Error obteniendo la ubicación:", error);
+          alert("No se pudo obtener la ubicación. Intenta nuevamente.");
+        },
+        {
+          enableHighAccuracy: true,
+          timeout: 5000,
+          maximumAge: 0,
         }
       );
     } else {
-      console.error("Geolocalización no soportada por el navegador.");
+      alert("Tu navegador no soporta geolocalización.");
     }
   };
 
@@ -195,15 +285,10 @@ function App() {
           zoom: 5,
         }}
         style={{ width: "100%", height: "100%" }}
-        mapStyle={`https://api.maptiler.com/maps/backdrop/style.json?key=Wnai4G4s1koZsp2dtjyh`}
-        interactiveLayerIds={geojson ? ["puntos"] : []} // Evita errores si geojson no ha cargado
-        onClick={(event) => {
-          if (!hoveredFeature) {
-            const { lng, lat } = event.lngLat;
-            findNearestPoints(lng, lat);
-          }
-        }}
-        onMouseMove={handleHover}
+        mapStyle="https://tiles.basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json"
+        interactiveLayerIds={geojson ? ["puntos"] : []}
+        onClick={handleMapClick}
+        onMouseMove={handleMouseMove}
       >
         {geojson && (
           <Source id="puntos" type="geojson" data={geojson}>
@@ -243,7 +328,14 @@ function App() {
               </h3>
               {Object.entries(hoveredFeature.properties).map(([key, value]) => (
                 <div key={key} className="popup-item">
-                  <strong>{key}:</strong> {value}
+                  <strong>{key}:</strong>{" "}
+                  {key === "Enlace" ? (
+                    <a href={value} target="_blank" rel="noopener noreferrer">
+                      Ver enlace
+                    </a>
+                  ) : (
+                    value
+                  )}
                 </div>
               ))}
             </div>
@@ -275,6 +367,7 @@ function App() {
             value={coordInput.latDeg}
             onChange={handleCoordInputChange}
             placeholder="Grados"
+            maxLength={3}
           />
           <input
             type="text"
@@ -282,6 +375,7 @@ function App() {
             value={coordInput.latMin}
             onChange={handleCoordInputChange}
             placeholder="Minutos"
+            maxLength={2}
           />
           <input
             type="text"
@@ -289,6 +383,7 @@ function App() {
             value={coordInput.latSec}
             onChange={handleCoordInputChange}
             placeholder="Segundos"
+            pattern="^\d{0,2}(\.\d{0,5})?$"
           />
         </div>
         <div>
@@ -299,6 +394,7 @@ function App() {
             value={coordInput.lngDeg}
             onChange={handleCoordInputChange}
             placeholder="Grados"
+            maxLength={3}
           />
           <input
             type="text"
@@ -306,6 +402,7 @@ function App() {
             value={coordInput.lngMin}
             onChange={handleCoordInputChange}
             placeholder="Minutos"
+            maxLength={2}
           />
           <input
             type="text"
@@ -313,14 +410,16 @@ function App() {
             value={coordInput.lngSec}
             onChange={handleCoordInputChange}
             placeholder="Segundos"
+            pattern="^\d{0,2}(\.\d{0,5})?$"
           />
         </div>
         <button onClick={handleCoordInputSubmit}>Buscar</button>
       </div>
+
       <div className="footer-label">By Sebastian Martinez</div>
 
       <button className="gps-button" onClick={getUserLocation}>
-        Usar GPS
+        Usar Ubicación Actual
       </button>
     </div>
   );
